@@ -104,11 +104,11 @@ If you don't want to make this a global alias, omit `--global` and run the comma
 ### License
 
 Unless specifically stated, all Alliance projects are
-distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) or [The Creative Commons License, Version 4.0](https://chooser-beta.creativecommons.org/) for projects that are primarily documentation or other similar materials. This repo uses the [Apache License](LICENSE) and it also has a text copy of the [CC-BY-4.0 License](LICENSE.CC-BY-4.0).
 
-SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
-
-For more details, see the [LICENSE](LICENSE).
+SPDX-License-Identifiers: 
+* [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
+* [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html)
 
 [DCO]: https://developercertificate.org/
 [Linux-DCO]: https://docs.kernel.org/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin
