@@ -101,14 +101,19 @@ The alias will be added to your `~/.gitconfig` file.
 
 If you don't want to make this a global alias, omit `--global` and run the command in each repo's root directory where you want to use it. The alias will be added to the `.git/config` file for your local repo clone.
 
-### License
+### Licenses
 
 Unless specifically stated, all Alliance projects are
-distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) or [The Creative Commons License, Version 4.0](https://chooser-beta.creativecommons.org/) for projects that are primarily documentation or other similar materials. This repo uses the [Apache License](LICENSE) and it also has a text copy of the [CC-BY-4.0 License](LICENSE.CC-BY-4.0).
+distributed under a suitable "open" license. Use the following guidelines:
 
-SPDX-License-Identifiers: 
-* [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
-* [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html)
+| Purpose | License | SPDX License Identifier |
+| :------ | :------ | :---------------------- |
+| Code | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) | [link](https://spdx.org/licenses/Apache-2.0) |
+| Documentation and other written materials | [The Creative Commons License, Version 4.0 - `CC BY 4.0`](https://chooser-beta.creativecommons.org/) | [link](https://spdx.org/licenses/CC-BY-4.0.html) |
+| Data | [CDLA Permissive 2.0](https://cdla.dev/permissive-2-0/) | [link](https://spdx.org/licenses/CDLA-Permissive-2.0.html) |
+| Model Weights | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) | [link](https://spdx.org/licenses/Apache-2.0) |
+| | Select model artifacts may add Safe Use addendum (Safe 1.0) | |
+
 
 [DCO]: https://developercertificate.org/
 [Linux-DCO]: https://docs.kernel.org/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin
