@@ -1,4 +1,4 @@
 # The AI Alliance - Code of Conduct and Covenant
 
-TODO - We are finalizing the language and will post it in June 2024.
+The AI Alliance code of conduct can be found on the AI Alliance [contribute](https://thealliance.ai/contribute) page. Rather than maintain copies in two places, we refer you to that page for the details, rather than have a copy here.
 

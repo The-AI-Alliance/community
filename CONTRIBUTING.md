@@ -6,31 +6,39 @@ This document describes our guidelines for contributing. They are guidelines, no
 
 ## What Should I Know Before I Get Started?
 
-### Code of Conduct
+We welcome contributions to Alliance projects, but contributors must accept certain agreements and conditions.
+
+### The AI Alliance Code of Conduct
 
 This project adheres to our [Code of Conduct](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. If you observe unacceptable behavior, follow the instructions in the document to report it.
 
-### AI Alliance Repositories
+### Developer Certificate of Origin
 
-This repository contains common files, like this one, that apply to all Alliance projects. We won't list the other repositories under [`The-AI-Alliance`](https://github.com/The-AI-Alliance/) organization, but most are for projects incubated within the Alliance itself. However, Alliance members are collaborating on many other projects that were introduced to the Alliance by members seeking additional collaborators. The best way to find those projects is to browse the [Alliance website](https://thealliance.ai/our-work).
+The AI Alliance utilizes the Linux Foundation’s [Developer Certificate of Origin](https://developercertificate.org/) (DCO) on a per-commit basis to enable contributions to Core Projects. The DCO does not require the committer to give away ownership of the contribution - your IP remains yours and others' IP remains theirs.
 
-In addition, work for some projects that cut across different repos and teams are tracked at a high level [here](https://github.com/orgs/The-AI-Alliance/projects).
+Using DCO is discussed in more detail [below](#legal).
 
-## Ways of Contributing
+### AI Alliance Competition Law Guidelines
+
+The AI Alliance and its members are committed to compliance with applicable antitrust and competition laws. See the [AI Alliance Competition Law Guidelines](https://ai-alliance.cdn.prismic.io/ai-alliance/ZnNNb5m069VX15Z1_AIAllianceCompetitionLawGuidelines.pdf) for details.
+
+## The AI Alliance GitHub Organization and Repositories
+
+This repository contains common files, like this one, that apply to all Alliance _core_ projects under the [`The-AI-Alliance`](https://github.com/The-AI-Alliance/) GitHub organization. Note that some Alliance members also collaborate on other _affiliate_ projects that are managed elsewhere and which were introduced to the Alliance by members seeking additional collaborators. The best way to find out about all the projects is to browse the [Alliance website](https://thealliance.ai/our-work).
+
+In addition, some work is tracked at a high level in GitHub "projects" [here](https://github.com/orgs/The-AI-Alliance/projects) for projects that cut across different repos and GitHub organizations.
+
+## The Contribution Process
 
 We follow normal _GitOps_ practices. We ask that all work in a particular repo be contributed as a pull request where it will be, built automatically and tested (for code changes), reviewed by maintainers, and merged when accepted.
 
-### How Do I Start Contributing?
+### Creating a Contribution
 
-The following workflow is designed to help you begin your first contribution journey. It will guide you through creating and picking up issues, working through them, having your work reviewed, and then merging.
-
-### How Can I Contribute?
-
-As an example, let's use the [`trust-safety-user-guide`] repo.
+As an example, let's use the [`trust-safety-user-guide`](https://github.com/The-AI-Alliance/trust-safety-user-guide) repo.
 
 Before you start working on a contribution to this guide review the [open issues](https://github.com/The-AI-Alliance/trust-safety-user-guide/issues) and [open pull requests](https://github.com/The-AI-Alliance/trust-safety-user-guide/pulls) to see if your contribution or enhancements are already proposed. You might instead be able to join forces with the people already working on these items. If you are unsure about how to contribute an idea, [open an issue](https://github.com/The-AI-Alliance/trust-safety-user-guide/issues) first to discuss your proposal idea with the maintainers.
 
-> **Note:** Read the [Legal](#legal) section below before making any commits to a repo or fork of one.
+> **Note:** Review the [Legal](#legal) section below before making any commits to a repo or fork of one.
 
 To contribute to this repo, you'll use the *Fork and Pull* model common in many open source repositories. You can follow this process in a local terminal or in the GitHub web UI.
 
@@ -64,16 +72,10 @@ Bugs are tracked as GitHub issues in the corresponding repo.
 
 We have tried to make it as easy as possible to make contributions.
 This applies to how we handle the legal aspects of contribution.
-We are adopting the [Developer's Certificate of Origin 1.1 (DCO)][DCO] to manage code contributions, which is the same approach that [the Linux Kernel community uses][Linux-DCO]. 
 
-All contributions that leverage third-party content should either come from the public domain or be licensed with an open data license that does not restrict commercial use or the creation of derivative works, including the following license types:
+### "Developer Certificate of Origin"
 
-- CC0-1.0
-- CDLA-Permissive-2.0
-- CC-BY-4.0
-- CC-BY-SA-4.0
-- Apache-2.0
-- MIT
+We follow the [Developer's Certificate of Origin 1.1 (DCO)][DCO] to manage code contributions, which is the same approach that [the Linux Kernel community uses][Linux-DCO]. 
 
 We ask that all developers include a sign-off statement in the commit message. Here is an example `Signed-off-by` line, which indicates that the submitter accepts the DCO:
 
@@ -112,8 +114,8 @@ distributed under a suitable "open" license. Use the following guidelines:
 | Documentation and other written materials | [The Creative Commons License, Version 4.0 - `CC BY 4.0`](https://chooser-beta.creativecommons.org/) | [link](https://spdx.org/licenses/CC-BY-4.0.html) |
 | Data | [CDLA Permissive 2.0](https://cdla.dev/permissive-2-0/) | [link](https://spdx.org/licenses/CDLA-Permissive-2.0.html) |
 | Model Weights | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) | [link](https://spdx.org/licenses/Apache-2.0) |
-| | Select model artifacts may add Safe Use addendum (Safe 1.0) | |
 
+The AI Alliance leaves open the possibility of additional terms concerning safe and responsible use for certain elements in special core projects. For example, some model weights may be open for use, except for harmful purposes. Any decision to use any such additional terms for a core project must be made by the AI Alliance Steering Committee and will be clearly identified in the core project's repository.
 
 [DCO]: https://developercertificate.org/
 [Linux-DCO]: https://docs.kernel.org/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin
