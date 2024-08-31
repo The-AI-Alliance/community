@@ -108,12 +108,11 @@ If you don't want to make this a global alias, omit `--global` and run the comma
 Unless specifically stated, all Alliance projects are
 distributed under a suitable "open" license. Use the following guidelines:
 
-| Purpose | License | SPDX License Identifier |
-| :------ | :------ | :---------------------- |
-| Code | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) | [link](https://spdx.org/licenses/Apache-2.0) |
-| Documentation and other written materials | [The Creative Commons License, Version 4.0 - `CC BY 4.0`](https://chooser-beta.creativecommons.org/) | [link](https://spdx.org/licenses/CC-BY-4.0.html) |
-| Data | [CDLA Permissive 2.0](https://cdla.dev/permissive-2-0/) | [link](https://spdx.org/licenses/CDLA-Permissive-2.0.html) |
-| Model Weights | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) | [link](https://spdx.org/licenses/Apache-2.0) |
+| Purpose | License | Website | SPDX License Identifier |
+| :------ | :------ | :------ | :---------------------- |
+| Code and Model Weights| [Apache License, Version 2.0](LICENSE.Apache-2.0) | [link](http://www.apache.org/licenses/LICENSE-2.0) | [link](https://spdx.org/licenses/Apache-2.0) |
+| Documentation and other written materials | [The Creative Commons License, Version 4.0 - `CC BY 4.0`](LICENSE.CC-BY-4.0) | [link](https://chooser-beta.creativecommons.org/) | [link](https://spdx.org/licenses/CC-BY-4.0.html) |
+| Data | [CDLA Permissive 2.0](LICENSE.CDLA-2.0) | [link](https://cdla.dev/permissive-2-0/) | [link](https://spdx.org/licenses/CDLA-Permissive-2.0.html) |
 
 The AI Alliance leaves open the possibility of additional terms concerning safe and responsible use for certain elements in special core projects. For example, some model weights may be open for use, except for harmful purposes. Any decision to use any such additional terms for a core project must be made by the AI Alliance Steering Committee and will be clearly identified in the core project's repository.
 
