@@ -89,7 +89,7 @@ This can be included automatically in a commit to a local Git repository using t
 git commit -s
 ```
 
-> **Tip:** If a commit is created that did not include the `-s` option, the original commit message can be edited by using the `git commit -s --amend` command. A "force push" must be done afterward to add the amended commit to a PR.
+> **Tip:** If a commit is created that did not include the `-s` option, the original commit message can be edited by using the `git commit -s --amend` command. A "force push" must be done afterward to add the amended commit to a PR. See this [StackOverflow post](https://stackoverflow.com/questions/13043357/git-sign-off-previous-commits) for more information.
 
 Consider creating a git _alias_ that permanently adds the `-s` flag to all commits. For example, let's define a `cs` alias for this purpose:
 
