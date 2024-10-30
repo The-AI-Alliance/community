@@ -1,6 +1,6 @@
 # Contributing
 
-👍🎉 First off, thank you for taking the time to contribute! 🎉👍
+👍🎉 First off, thank you for taking the time to contribute to AI Alliance initiatives! 🎉👍
 
 This document describes our guidelines for contributing. They are guidelines, not rules. Use your best judgment and feel free to propose changes to this document in a pull request.
 
