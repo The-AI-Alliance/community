@@ -14,7 +14,7 @@ Want to contribute? By contributing to this repo, you not only help AI engineers
 
 ### February
 * 10-11 [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) - Paris (France)
-* 11-13 [AI Dev World](https://aidevworld.com)
+* 11-13 [AI Dev World](https://aidevworld.com) - Santa Clara (USA)
 * 18-20 [AI Dev World - Live Online](https://aidevworld.com)
 
 ### March
@@ -24,7 +24,7 @@ Want to contribute? By contributing to this repo, you not only help AI engineers
 *
 
 ### May
-* 6-7 [AI Agent Conference](https://agentconference.com) NYC (US)
+* 6-7 [AI Agent Conference](https://agentconference.com) NYC (USA)
 
 ### June
 *
