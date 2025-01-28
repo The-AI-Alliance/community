@@ -5,7 +5,7 @@ I propose this GitHub repository to list all the Community events (meet-ups, use
 Want to contribute? Add an event, or offer a venue, or speak or sponsor.  By contributing to this repo, you can help conference organizers. Another goal of this [age is to create conferences for AI engineers, developers and researchers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
-This AI Alliance conference agenda list can be seen at https://developers.events/.
+This AI Alliance conference agenda list can be seen at https://thealliance.ai/events.
 
 ## Archives
 
