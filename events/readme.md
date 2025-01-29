@@ -21,7 +21,6 @@ The Awesome AI Conferences list can be found here: https://github.com/The-AI-All
 
 ### February
 
-* 1: [Mangaluru Tech Day](https://hackersmang.org/techmang25) - Mangalore (India) 
 * 11: [AI Alliance meetup Paris](https://lu.ma/vejv8xcx)) - Paris (France) <a href="https://sessionize.com/devfest-24-dakar/"><img alt="CFP AI Alliance meetup Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2024&color=red"></a>
 
 ### March
