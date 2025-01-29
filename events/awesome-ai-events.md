@@ -20,7 +20,7 @@ Want to contribute? By contributing to this repo, you not only help AI engineers
 * 18-20 [AI Dev World - Live Online](https://aidevworld.com)
 
 ### March
-* 17-18 [AllThings Open AI](https://allthingsopen.ai/) - Durham, NC (USA)
+* 17-18 [All Things Open AI](https://allthingsopen.ai/) - Durham, NC (USA)
 
 ### April
 *
