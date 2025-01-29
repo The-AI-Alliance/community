@@ -18,7 +18,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 
 ### February
 * 10-11 [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) - Paris (France)
-* 11-13 [AI Dev World](https://aidevworld.com) - Santa Clara (USA)
+* 11-13 [AI Dev World](https://aidevworld.com) - Santa Clara, CA (USA)
 * 18-20 [AI Dev World - Live Online](https://aidevworld.com)
 
 ### March
@@ -28,7 +28,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 *
 
 ### May
-* 6-7 [AI Agent Conference](https://agentconference.com) NYC (USA)
+* 6-7 [AI Agent Conference](https://agentconference.com) NYC, NY (USA)
 
 ### June
 *
