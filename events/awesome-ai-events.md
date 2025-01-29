@@ -22,7 +22,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 * 18-20 [AI Dev World - Live Online](https://aidevworld.com)
 
 ### March
-* 
+* 17-18 [All Things Open AI](https://allthingsopen.ai/) - Durham, NC (USA)
 
 ### April
 *
