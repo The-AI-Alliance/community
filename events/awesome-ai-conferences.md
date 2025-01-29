@@ -1,5 +1,5 @@
 
-# Awesome AI Events & CFP List
+# Awesome AI Conferences & CFP List
 
 I propose this GitHub repository to list all AI events (conferences, not meetups, etc.) 
 
