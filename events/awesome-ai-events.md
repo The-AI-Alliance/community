@@ -1,3 +1,4 @@
+
 # Awesome AI Events & CFP List
 
 I propose this GitHub repository to list all AI events (conferences, not meetups, etc.) 
@@ -11,6 +12,7 @@ Want to contribute? By contributing to this repo, you not only help AI engineers
 ## 2025
 
 ### January
+* 
 
 ### February
 * 10-11 [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) - Paris (France)
