@@ -1,7 +1,8 @@
 # Proposed
-- 
+*
 
 # Upcoming
+
 ## February
 
 ## March
@@ -15,7 +16,8 @@
 ## July
 
 # Past
+
 ## January
-- 30 
+* 30 
 
 
