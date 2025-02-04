@@ -8,21 +8,19 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 The Awesome AI Conferences list can be found here: https://github.com/The-AI-Alliance/community/blob/main/events/awesome-ai-conferences.md
 
 ## Archives
-
 * [2024](archives/2024.md)
 
 ## 2025
 
 ### January
-
 * 23 [IBM TechXchange Day - Virtual Agents](https://ibmtechxchange-virtual-agents.bemyapp.com) - Virtual
 * 24-26 [AI for Connectivity Hackathon](https://lablab.ai/event/ai-for-connectivity-hackathon) - Geneva (Switzerland)
 
 
 ### February
-
 * 6 [AI Alliance Meetup](https://lu.ma/vejv8xcx) - Paris (France) - Speakers from 3 AI Alliance Members
-
+* 11 [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) - Paris (France) - Sponsor
+  
 ### March
 * 4 [AAAI 25: Workshop on Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/#aaai-25-workshop-on-open-source-ai-for-mainstream-use) - Philadelphia (USA) <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/submission-details/"><img alt="Workshop on Open-Source AI" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-November-2024&color=red"></a>
 
