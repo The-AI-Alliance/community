@@ -43,7 +43,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 *
 
 ### October
-* 6-9 [RISE AI Conference](https://lucyinstitute.nd.edu/news-events/rise-ai-society-conference/) - South Bend, IN (US) <a href="[https://sessionize.com/techmang/](https://lucyinstitute.nd.edu/news-events/rise-ai-society-conference/rise-ai-conference-2025-call-for-submissions/)"><img alt="CFP RISE AI Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-March-2025&color=red"></a>
+* 6-9 [RISE AI Conference](https://lucyinstitute.nd.edu/news-events/rise-ai-society-conference/) - South Bend, IN (US) <a href="[https://lucyinstitute.nd.edu/news-events/rise-ai-society-conference/rise-ai-conference-2025-call-for-submissions/"><img alt="CFP RISE AI Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-March-2025&color=red"></a>
 * TBD: AI Alliance Conference - New York (US) 
 
 ### November
