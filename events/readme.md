@@ -1,6 +1,6 @@
 # AI Alliance Community Events & CFP List
 
-I propose this GitHub repository to list all the Community events (meet-ups, user groups, workshops, conferences, etc.) 
+This GitHub repository lists AI Alliance Community events (meet-ups, user groups, workshops, conferences, etc.) where our members are actively engaged. 
 
 Want to contribute? Add an event, or offer a venue, or speak or sponsor.  By contributing to this repo, you can help conference organizers. Another goal of this [age is to create conferences for AI engineers, developers and researchers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
