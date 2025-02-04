@@ -21,7 +21,6 @@ The Awesome AI Conferences list can be found here: https://github.com/The-AI-All
 
 ### February
 
-* 4 [State of Open Con](https://stateofopencon.com) - London (UK)
 * 6 [AI Alliance Meetup Paris](https://lu.ma/vejv8xcx) - Paris (France) 
 * 11 AI Action Summit - Paris (France)
 
