@@ -15,7 +15,7 @@ The Awesome AI Conferences list can be found here: https://github.com/The-AI-All
 
 ### January
 
-* 23 [IBM TechXchange Day - Virtual Agents](https://ibmtechxchange-virtual-agents.bemyapp.com) - Virtual
+* 23: [IBM TechXchange Day - Virtual Agents](https://ibmtechxchange-virtual-agents.bemyapp.com) - Virtual
 * 24-26: [AI for Connectivity Hackathon](https://lablab.ai/event/ai-for-connectivity-hackathon) - Geneva (Switzerland)
 
 
@@ -25,7 +25,7 @@ The Awesome AI Conferences list can be found here: https://github.com/The-AI-All
 *11: AI Action Summit - Paris (France)
 
 ### March
-* 
+* 4: [AAAI 25: Workshop on Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/#aaai-25-workshop-on-open-source-ai-for-mainstream-use) - Philadelphia (USA) 
 
 ### April
 *
