@@ -3,6 +3,8 @@
 
 # Upcoming
 
+## 2025
+
 ### January
 * 30 [AI Alliance Office Hour - Getting Started with Docling and Data Prep Kit](http://meetup.com/ibm-developer-sf-bay-area-meetup/) - Virtual
 
@@ -12,17 +14,17 @@
 * 20 [AI Alliance Office Hour - Talk TBD]() - Virtual
 * 27 [AI Alliance Office Hour - Talk TBD]() - Virtual
 
-## April
+### April
 
-## May
+### May
 
-## June
+### June
 
-## July
+### July
 
 # Past
 
-## January
-* 30 
+### January
+ 
 
 
