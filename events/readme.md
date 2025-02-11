@@ -1,6 +1,6 @@
 # AI Alliance Community Events & CFP List
 
-This GitHub repo lists AI Alliance Community events (meet-ups, user groups, workshops, conferences, etc.) where our members are actively engaged (speaking, organizing, hosting, sponsoring, etc.). 
+This GitHub repo lists AI Alliance Community events (meet-ups, user groups, workshops, conferences, etc.) where our members are actively engaged (speaking, organizing, hosting, sponsoring, etc.). .
 
 Want to contribute? Add an event, or offer a venue, or speak or sponsor.  By contributing to this repo, you can help conference organizers. Another goal of this [age is to create conferences for AI engineers, developers and researchers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
@@ -29,6 +29,7 @@ AI Awesome AI Conferences list: https://github.com/The-AI-Alliance/community/blo
 ### March
 * 4 [AAAI 25: Workshop on Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/#aaai-25-workshop-on-open-source-ai-for-mainstream-use) - Philadelphia (USA) <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/submission-details/"><img alt="Workshop on Open-Source AI" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-November-2024&color=red"></a>
 * 4 [Forward, Faster: Accelerating R&D with AI](https://research.ibm.com/haifa/forward%20faster-2025/index.html) - Haifa (Israel) - Poster
+* 12-14 [AI Semiconductor Conference](https://www.aisc.events) - Hanoi (Vietnam)
 
 ### April
 *
