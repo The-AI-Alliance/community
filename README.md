@@ -16,3 +16,6 @@ Related AI Alliance projects, such as code of conduct, and other community-relat
 ### [License: Creative Commons BY 4.0](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.CC-BY-4.0)
 ### [License: CDLA 2.0](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.CDLA-2.0)
 ### [Maintainers](https://github.com/The-AI-Alliance/community/blob/main/MAINTAINERS.md)
+
+# To Do
+### Governance Doc
