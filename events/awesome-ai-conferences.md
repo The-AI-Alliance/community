@@ -20,8 +20,10 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 * 4 [State of Open Con](https://stateofopencon.com) - London (UK)
 * 10-11 [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) - Paris (France)
 * 11-13 [AI Dev World](https://aidevworld.com) - Santa Clara, CA (USA); 18-20 [Online](https://aidevworld.com)
+* 19 [AI Engineer Summit](https://www.ai.engineer/summit/2025) - New York, NY (USA)
 
 ### March
+* 14 [AI Dev 25](https://ai-dev.deeplearning.ai/) - San Francisco, CA (USA)
 * 17-18 [All Things Open AI](https://allthingsopen.ai/) - Durham, NC (USA)
 
 ### April
