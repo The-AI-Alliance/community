@@ -30,7 +30,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 *
 
 ### May
-* 6-7 [AI Agent Conference](https://agentconference.com) NYC, NY (USA)
+* 6-7 [AI Agent Conference](https://agentconference.com) NYC, NY (USA) <a href="https://agentconference.com/#speakers"><img alt="Agent Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=red"></a>
 
 ### June
 *
