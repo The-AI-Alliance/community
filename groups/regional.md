@@ -3,9 +3,8 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 ## Asia
 
 ### Bangalore
-* [Bangalore](https://meetup.com/silicon-valley-gen-ai)
-* [Bangalore](https://meetup.com/silicon-valley-gen-ai) 
-* 17-18 [All Things Open AI](https://allthingsopen.ai/) - Durham, NC (USA)
+* [Big Data, Analytics, and Machine Learning](https://www.meetup.com/big-data-analytics-and-machine-learning/))
+* [Data Science Network](https://www.meetup.com/datasciencenetwork/) 
 
 ## Europe
 
