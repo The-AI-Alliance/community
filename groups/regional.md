@@ -3,7 +3,7 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 ## Asia
 
 ### Bangalore
-* [Big Data, Analytics, and Machine Learning](https://www.meetup.com/big-data-analytics-and-machine-learning/))
+* [Big Data, Analytics, and Machine Learning](https://www.meetup.com/big-data-analytics-and-machine-learning/)
 * [Data Science Network](https://www.meetup.com/datasciencenetwork/) 
 
 ## Europe
