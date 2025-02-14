@@ -9,17 +9,35 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 
 ## Europe
 
+### Amsterdam
+* 9/26 PyData Amsterdam
+
+### Darmstadt
+* 4/23 PyCon DE PyData 
+
+### London
+* 6/6/2025 PyData London
+
 ### Lussaune
 * PyData
-
-### Paris
-* PyData (Fall)
-* datacraft
-* Hugging Face
 
 ### Geneva
 * PyData
 
+### Stockholm
+* PyData StockholmTBD (May)TBD
+* Northern Italy 
+
+### Paris
+* 9/30 PyData Paris
+* PyData (Fall)
+* datacraft
+* Hugging Face
+
+
+### Trieste
+* ICP
+  
 ### Zurich
 * PyData
 
