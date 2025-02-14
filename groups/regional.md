@@ -35,7 +35,7 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 
 
 ### Trieste
-* ICP
+* [ICTP](https://www.ictp.it)
   
 ### Zurich
 * PyData
