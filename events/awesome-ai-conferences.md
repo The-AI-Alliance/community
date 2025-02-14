@@ -39,7 +39,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 *
 
 ### August
-*
+* Open Source Summit India 
 
 ### September
 *
