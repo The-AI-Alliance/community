@@ -16,10 +16,10 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 - datacraft
 - Hugging Face
 
-## Geneva
+### Geneva
 - PyData
 
-## Zurich
+### Zurich
 - PyData
 
 ## Asia
