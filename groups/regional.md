@@ -8,9 +8,19 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 - [Silicon Vally Gen AI Meetup](https://meetup.com/silicon-valley-gen-ai) 
 
 ## Europe
+### Lussaune
+- PyData
+
 ### Paris
+- PyData (Fall)
 - datacraft
 - Hugging Face
+
+## Geneva
+- PyData
+
+## Zurich
+- PyData
 
 ## Asia
 
