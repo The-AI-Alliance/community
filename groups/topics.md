@@ -2,8 +2,8 @@ This AI Alliance Community Topics page lists speakers who can talk about the fol
 
 ## Topics and Speakers 
 ### Data Prep Kit
-* [Sujee Maniyam](https://node51.com) (Contractor for IBM)
+* [Sujee Maniyam](https://node51.com) AI Engineer (Independent Contractor)
 
 ### OAKS
-* [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist) - Dev Advocate at Neo4J
+* [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist) - Dev Advocate (Neo4j)
 
