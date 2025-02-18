@@ -1,6 +1,9 @@
-This AI Alliance Community Topics page is a work in progress. It's purpose is to college  lists of topics groups and resources that AI Alliance members can speak about. If you would like to collaborate with he AI Alliance on an event, add yourself to this list by creating a pull request:
+This AI Alliance Community Topics page lists speakers who can talk about the following topics. If you would like to speak at one of our communtiy events, add yourself to this list:
 
-## 
+## Topics and Speakers 
 ### Data Prep Kit
-- [Sujee Maniyam](https://node51.com)
+* [Sujee Maniyam](https://node51.com) (Contractor for IBM)
+
+### OAKS
+* [Alexy Khrabrov](https://www.linkedin.com/in/chiefscientist) - Dev Advocate at Neo4J
 
