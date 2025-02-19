@@ -49,7 +49,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 * TBD: AI Alliance Conference - New York (US) 
 
 ### November
-* 7-8 [TechEquity AI Summit](https://techequity-ai.org) - Mountain View, CA (USA)
+* 7-8 [TechEquity Ai Summit](https://techequity-ai.org) - Mountain View, CA (USA)
 * 17-19 [AI By the Bay](https://ai.bythebay.io/) - San Francisco, CA (USA)
 
 ### December
