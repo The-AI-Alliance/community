@@ -23,6 +23,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 * 19 [AI Engineer Summit](https://www.ai.engineer/summit/2025) - New York, NY (USA)
 
 ### March
+* 9-11 [HumanX AI](https://www.humanx.co) - Las Vegas, NV (USA)
 * 14 [AI Dev 25](https://ai-dev.deeplearning.ai/) - San Francisco, CA (USA)
 * 17-18 [All Things Open AI](https://allthingsopen.ai/) - Durham, NC (USA)
 
