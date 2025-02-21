@@ -48,6 +48,8 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 
 ### San Francisco
 * [IBM Developer SF Bay Area Meetup](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/)
+* [Data for AI](https://lu.ma/dataforai)
+* [Bay Area AI](https://www.meetup.com/bay-area-ai/)
 
 ### Silicon Valley 
 * [Silicon Vally Gen AI Meetup](https://meetup.com/silicon-valley-gen-ai) 
