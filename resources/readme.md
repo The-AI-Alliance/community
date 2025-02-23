@@ -5,3 +5,6 @@
 
 ## Technical Resources
 ### [Hugging Face](https://huggingface.co/aialliance)
+
+## Online Books
+### [Training LLM on large GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
