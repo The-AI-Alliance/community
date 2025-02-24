@@ -39,7 +39,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 
 
 ### July
-*
+* 8-11 [AI 4 X Conference](https://ai4x.cc) - (Singapore) <a href="https://ai4x.cc/submission/"><img alt="AI 4 X Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-Feb-2025&color=red"></a> 
 
 ### August
 * Open Source Summit India 
