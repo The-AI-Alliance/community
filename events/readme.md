@@ -1,4 +1,4 @@
-# AI Alliance Community Events & CFP List
+# AI Alliance (in-person) Community Events & CFP List
 
 This GitHub repo lists AI Alliance Community events (meet-ups, user groups, workshops, conferences, etc.) where our members are actively engaged (speaking, organizing, hosting, sponsoring, etc.). .
 
