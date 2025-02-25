@@ -24,8 +24,10 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 
 ### March
 * 9-11 [HumanX AI](https://www.humanx.co) - Las Vegas, NV (USA)
+* 12-14 [AI-Semiconductor Conference](https://www.aisc.events) - Hanoi (Viet Nam)
 * 14 [AI Dev 25](https://ai-dev.deeplearning.ai/) - San Francisco, CA (USA)
 * 17-18 [All Things Open AI](https://allthingsopen.ai/) - Durham, NC (USA)
+* 17-21 [Nvidia GTC](https://www.nvidia.com/gtc/) - San Jose, CA (USA)
 
 ### April
 *
