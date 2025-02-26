@@ -1,6 +1,6 @@
 # Community Videos
 
-Here is where we track videos from the community that we want to publish 
+Let's track videos from the community that we want to publish 
 
 ### Proposed
 * Intro to Education & Skills (FA1)
