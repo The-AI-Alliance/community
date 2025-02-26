@@ -1,1 +1,1 @@
-Here is where the videos go
+Here is where we track videos we want to publish
