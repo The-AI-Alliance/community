@@ -54,7 +54,7 @@ AI Alliance Community events can be found here: https://github.com/The-AI-Allian
 * TBD: AI Alliance Conference - New York (US) 
 
 ### November
-* 7-8 [TechEquity Ai Summit](https://techequity-ai.org) - Mountain View, CA (USA) <a href="https://techequity-ai.org/become-a-speaker/"><img alt="CFP RISE AI Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
+* 7-8 [TechEquity Ai Summit](https://techequity-ai.org) - Mountain View, CA (USA) <a href="https://techequity-ai.org/become-a-speaker/"><img alt="CFP RISE AI Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a> (with Unconference on 7th & Speedgeeking on 8th)
 
 
 
