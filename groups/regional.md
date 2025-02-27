@@ -44,7 +44,7 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 
 ### South Africa 
 
-## US
+## North America (US, Canada)
 
 ### San Francisco
 * [IBM Developer SF Bay Area Meetup](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/)
@@ -52,6 +52,9 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 * [Bay Area AI](https://www.meetup.com/bay-area-ai/)
 
 ### Silicon Valley 
-* [Silicon Vally Gen AI Meetup](https://meetup.com/silicon-valley-gen-ai) 
+* [Silicon Vally Gen AI Meetup](https://meetup.com/silicon-valley-gen-ai)
+
+### Vancouver
+* [VAM](https://www.vancouveraimeetup.com) + [6-week online program](https://lu.ma/rtrxajcq)
 
 
