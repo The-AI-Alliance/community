@@ -25,6 +25,7 @@ AI Awesome AI Conferences list: https://github.com/The-AI-Alliance/community/blo
 ### March
 * 4 [AAAI 25: Workshop on Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/#aaai-25-workshop-on-open-source-ai-for-mainstream-use) - Philadelphia (USA) <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/submission-details/"><img alt="Workshop on Open-Source AI" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-November-2024&color=red"></a>
 * 4 [Forward, Faster: Accelerating R&D with AI](https://research.ibm.com/haifa/forward%20faster-2025/index.html) - Haifa (Israel) - Poster
+* 7 [Navigating AI Together](https://www.eventbrite.com/e/navigating-ai-together-a-bay-area-community-college-unconference-tickets-1231783340129) - Mountain view, CA (USA)
 * 12-14 [AI Semiconductor Conference](https://www.aisc.events) - Hanoi (Vietnam)
 * 29 [Agentic Unconference]() - San Francisco, CA (USA)
 * 
