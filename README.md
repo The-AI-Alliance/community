@@ -1,4 +1,4 @@
-This AI Alliance Community repo is a work in progress. It's purpose is to provide collaborative lists of events, projects and activities that AI Alliance members can contribute to and participate in. You are all encouraged to add to any of these community lists by submitting a pull request:
+This Community repo is where our community shares community events, content and activities that members can contribute to and participate in. Add to any of these community lists by submitting a pull request:
 
 [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([online](), [in-person](/events/2025/readme.md)), [Website](/website/readme.md) & [Resources](/resources/readme.md)
 
