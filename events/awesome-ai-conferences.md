@@ -3,7 +3,7 @@
 
 A list of AI Conferences around the world. 
 
-Want to contribute? By contributing to this repo, you not only help AI engineersm & researchers, but you also help conference organizers avoid conflicting dates.
+Want to contribute? By contributing to this repo, you not only help AI engineers & researchers, but you help conference organizers avoid conflicting dates.
 
 See also [Community Events](readme.md) and [Online Office Hours](../online/office-hours.md)
 
