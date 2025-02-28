@@ -5,7 +5,7 @@ I propose this GitHub repository to list all AI events (conferences, not meetups
 
 Want to contribute? By contributing to this repo, you not only help AI engineersm & researchers, but you also help conference organizers avoid conflicting dates.
 
-AI Alliance Community events can be found here: https://github.com/The-AI-Alliance/community/blob/main/events/readme.md
+See also [Community Events](readme.md) and [Online Office Hours](../online/office-hours.md)
 
 ## Archives
 
