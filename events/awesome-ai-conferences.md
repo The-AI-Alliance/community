@@ -62,6 +62,6 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 * 17-19 [AI By the Bay](https://ai.bythebay.io/) - San Francisco, CA (USA)
 
 ### December
-*
+* 1-5 [AWS Re:Invent](https://reinvent.awsevents.com) - Las Vegas, NV (USA)
 
 ## 2026
