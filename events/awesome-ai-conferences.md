@@ -1,7 +1,7 @@
 
-# Awesome (in-person) AI Conferences & CFP List
+# Awesome AI Conferences & CFP List (in-person)
 
-I propose this GitHub repository to list all AI events (conferences, not meetups, etc.) 
+A list of AI Conferences around the world. 
 
 Want to contribute? By contributing to this repo, you not only help AI engineersm & researchers, but you also help conference organizers avoid conflicting dates.
 
@@ -51,6 +51,7 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 
 ### October
 * 6-9 [RISE AI Conference](https://lucyinstitute.nd.edu/news-events/rise-ai-society-conference/) - South Bend, IN (US) <a href="https://lucyinstitute.nd.edu/news-events/rise-ai-society-conference/rise-ai-conference-2025-call-for-submissions/"><img alt="CFP RISE AI Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-March-2025&color=red"></a>
+* 22-23 [PyTorch Conference](https://events.linuxfoundation.org/pytorch-conference/) - San Francisco, CA (USA) - Possible AIA sponsorship
 * TBD: AI Alliance Conference - New York (US) 
 
 ### November
