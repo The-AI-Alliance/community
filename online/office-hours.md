@@ -2,20 +2,41 @@
 
 See also: [AI Awesome AI Conferences](../events/awesome-ai-conferences.md) and [Community Events](../events/readme.md)
 
-# Proposed
-* ,,,,,,,,,,,,,,,,,,,,,
-
 # Upcoming
 
 ## 2025
 
+### March
+* 6 [AI Alliance Office Hour - Introducing Gneissweb: A State-Of-The-Art LLM Pre-training Dataset](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/events/306423583/) by Shahrokh Daijavad (IBM Research)
+* 13 Comming Soon
+* 20 Comming Soon
+* 27 Comming Soon
+
 ### April
+* 3
+* 10
+* 17
+* 24
 
 ### May
+* 1
+* 8
+* 15
+* 22
+* 29
 
 ### June
+* 5
+* 12
+* 19
+* 26
 
 ### July
+* 3
+* 10
+* 17
+* 24
+* 31
 
 # Past
 
