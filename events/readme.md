@@ -5,7 +5,7 @@ This GitHub repo lists AI Alliance Community events (meet-ups, user groups, work
 Want to contribute? Add an event, or offer a venue, or speak or sponsor.  By contributing to this repo, you can help conference organizers. Another goal of this [age is to create conferences for AI engineers, developers and researchers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
-AI Awesome AI Conferences list: https://github.com/The-AI-Alliance/community/blob/main/events/awesome-ai-conferences.md
+See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Office Hours](../online/office-hours.md)
 
 ## Archives
 * [2024](archives/2024.md)
