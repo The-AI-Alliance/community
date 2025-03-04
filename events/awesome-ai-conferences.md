@@ -35,6 +35,7 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 ### May
 * 6-7 [AI Agent Conference](https://agentconference.com) NYC, NY (USA) <a href="https://agentconference.com/#speakers"><img alt="Agent Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=red"></a>
 * 21-25 [Google IO](https://io.google/2025/) Mountain View, CA (USA)
+* 22 [AI Compute](https://events.economist.com/ai-compute/) Copenhagen (Denmark)
 
 ### June
 * 25-27 [NYC AI4Chemistry Summit](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit) - NYC, NY (USA) <a href="https://wp.nyu.edu/sccpc/abstract-submission/"><img alt="AI4Chemistry Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%201-May-2025&color=red"></a>
