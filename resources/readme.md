@@ -1,7 +1,7 @@
 # Here is a list of AI Alliance Community resources:
 
-## AI Alliance Getting Started Guide (draft - 2025)
-### [Guide](https://docs.google.com/presentation/d/1a4gwcaCJPl9Bajgvz2ttf7yItIzX6GXrwToBmFc9wyM/)
+## Guides
+### [AI Alliance Getting Started Guide (draft - 2025)](https://docs.google.com/presentation/d/1a4gwcaCJPl9Bajgvz2ttf7yItIzX6GXrwToBmFc9wyM/)
 
 ## AI Alliance Media
 ### [AI Alliance Logo](https://github.com/The-AI-Alliance/community/blob/main/resources/images/ai_alliance_logo.png)
