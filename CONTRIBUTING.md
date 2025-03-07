@@ -6,7 +6,7 @@ This document describes our guidelines for contributing. They are guidelines, no
 
 ## What Should I Know Before I Get Started?
 
-We welcome contributions to Alliance projects, but contributors must accept certain agreements and conditions.
+We welcome contributions to Alliance projects, but contributors must accept certain agreements and conditions, discussed here. See also the AI Alliance page on [governance](https://thealliance.ai/governance) for more information.
 
 ### The AI Alliance Code of Conduct
 
