@@ -1,5 +1,9 @@
 # List content for Community Newsletter here:
 
+Calls for contributions:
+* Regional event organizers
+* 
+
 ADD YOUR IDEAS HERE
 
 ## Upcoming/Recurring Working Group meetings
@@ -10,7 +14,8 @@ ADD YOUR IDEAS HERE
 * Gofannon (FA3)
 * Agents (FA3)
 * Data Prep (FA3) 
-* Performance Improvement (FA5) 
+* Performance Improvement (FA5)
+* [Propose your project]
 
 ## Upcoming events (online)
 ### tbd
