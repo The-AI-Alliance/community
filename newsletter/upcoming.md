@@ -1,15 +1,20 @@
 # List content for Community Newsletter here:
 
-## Add your ideas here:
+ADD YOUR IDEAS HERE
 
-### Upcoming/Recurring Working Group meetings
-- FA2
-- FA3
-- FA4
-- FA5
+## Upcoming/Recurring Working Group meetings
 
-### Upcoming events (online)
-- 
+* AI for Educators (FA2)  
+* Red Teaming Project: (FA2)
+* Guardrails Project: (FA2)
+* Gofannon (FA3)
+* Agents (FA3)
+* Data Prep (FA3) 
+* Performance Improvement (FA5) 
 
-### Upcoming events (regional)
-- 
+## Upcoming events (online)
+### tbd
+
+## Upcoming events (regional)
+### San Francisco 
+
