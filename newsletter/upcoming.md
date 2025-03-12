@@ -1,10 +1,10 @@
 # List content for Community Newsletter here:
 
+ADD YOUR IDEAS HERE
+
 Calls for contributions:
 * Regional event organizers
 * 
-
-ADD YOUR IDEAS HERE
 
 ## Upcoming/Recurring Working Group meetings
 
