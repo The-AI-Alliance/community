@@ -42,12 +42,6 @@ WHAT’S THE PROCESS?
 
 1. Planning the Event
 
-
-✅ 
-✅ Decide on Frequency – One-time event or recurring meetup (monthly, quarterly)?
-✅ Identify the Target Audience – Developers, AI engineers, business leaders, students, etc.
-✅ Select a Date & Time – Avoid holidays and major conflicting events.
-
 HOW DO WE DECIDE WHICH EVENTS TO SUPPORT
  
 Events must align with the AI Alliance mission and support our community efforts, for example:
