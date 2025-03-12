@@ -18,7 +18,7 @@ Calls for contributions:
 * [Propose your project]
 
 ## Upcoming events (online)
-### tbd
+### Upcoming events should be straight copy/paste from here: https://thealliance.ai/events
 
 ## Upcoming events (regional)
 ### San Francisco 
