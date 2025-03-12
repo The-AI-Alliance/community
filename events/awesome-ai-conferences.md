@@ -13,9 +13,6 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 
 ## 2025
 
-### January
-* 
-
 ### February
 * 4 [State of Open Con](https://stateofopencon.com) - London (UK)
 * 10-11 [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) - Paris (France)
