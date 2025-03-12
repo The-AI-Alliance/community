@@ -61,7 +61,8 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 
 
 
-* 17-19 [AI By the Bay](https://ai.bythebay.io/) - San Francisco, CA (USA)
+* 17-19 [AI By the Bay](https://ai.bythebay.io/) - San Francisco, CA (USA) <a href="https://sessionize.com/by-the-bay"><img alt="CFP AI By the Bay" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2025&color=red"></a>
+
 
 ### December
 * 1-5 [AWS Re:Invent](https://reinvent.awsevents.com) - Las Vegas, NV (USA)
