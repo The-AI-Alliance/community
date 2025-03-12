@@ -38,12 +38,12 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 * 22 [AI Compute](https://events.economist.com/ai-compute/) Copenhagen (Denmark)
 
 ### June
+* 16-17 [Paris Conference for AI Ethics](https://paris-conference.com) - <a href="https://paris-conference.com/papers-submit/"><img alt="AI Ethics Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%201-May-2025&color=red"></a>
 * 25-27 [NYC AI4Chemistry Summit](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit) - NYC, NY (USA) <a href="https://wp.nyu.edu/sccpc/abstract-submission/"><img alt="AI4Chemistry Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%201-May-2025&color=red"></a>
 
-
-
 ### July
-* 8-11 [AI 4 X Conference](https://ai4x.cc) - (Singapore) <a href="https://ai4x.cc/submission/"><img alt="AI 4 X Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-Feb-2025&color=red"></a> 
+* 8-9 [BEAM](https://beamsummit.org) - New York, NY (USA) 
+* 8-11 [AI 4 X Conference](https://ai4x.cc) - (Singapore) <a href="https://beamsummit.org/cfp-2025/"><img alt="AI 4 X Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Mar-2025&color=red"></a> 
 
 ### August
 * Open Source Summit India 
