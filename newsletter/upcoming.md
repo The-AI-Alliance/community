@@ -2,9 +2,15 @@
 
 ADD YOUR IDEAS HERE
 
-Calls for contributions:
-* Regional event organizers
-* 
+Call for Speakers
+* Speak at an upcoming AI conference or online webinar
+
+Call for Bloggers
+* Write a blog post for the AI Alliance (C4
+
+Call for Event Organizers
+* Organize an event in your region
+
 
 ## Upcoming/Recurring Working Group meetings
 
