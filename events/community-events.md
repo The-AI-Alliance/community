@@ -27,7 +27,7 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 * 4 [Forward, Faster: Accelerating R&D with AI](https://research.ibm.com/haifa/forward%20faster-2025/index.html) - Haifa (Israel) - Poster
 * 7 [Navigating AI Together](https://www.eventbrite.com/e/navigating-ai-together-a-bay-area-community-college-unconference-tickets-1231783340129) - Mountain view, CA (USA)
 * 12-14 [AI Semiconductor Conference](https://www.aisc.events) - Hanoi (Vietnam)
-* 29 [AI Agent Meetup #1]() - San Francisco, CA (USA)
+* 27 [Special San Jose AI Meetup]() - San Jose, CA (USA)
 * 
 
 ### April
