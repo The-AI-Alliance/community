@@ -7,9 +7,15 @@ Topics:
 
 ### FA2 - Trust & Safety
 Topics: AI risks can broadly be grouped into three categories:
-* Security - Security risks involve threats to data integrity, privacy, and system vulnerabilities that could lead to breaches or misuse of AI-generated content.
+* Security - threats to data integrity, privacy, system vulnerabilities could lead to data breaches, identity theft, cyberattacks or misuse of AI-generated content.
 * Ethical - Ethical risks involve bias, discrimination, transparency, and accountability issues in AI decision-making.
 * Operational - Operational risks impact the reliability, efficiency, and effectiveness of AI systems in real-world tasks.
+
+* Security risks: 
+
+Ethical risks: Bias, discrimination, unfair decision making 
+
+Operational risks: System failures, inaccurate predictions, lack of adaptability
 
 Projects:
 * [Trust & Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/)
