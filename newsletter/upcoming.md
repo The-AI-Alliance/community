@@ -1,5 +1,7 @@
 # List content for Community Newsletter here:
 
+* [Newsletter Template](https://docs.google.com/document/d/1wL-vp6mTulq2bqOq7xcH5rvy_axDU5U8Tq7e9bPTgAk/edit?usp=sharing)
+
 ADD YOUR IDEAS HERE
 
 Call for Speakers
