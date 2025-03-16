@@ -1,10 +1,11 @@
 # List content for Community Newsletter here:
 
-* [Newsletter Template](https://docs.google.com/document/d/1wL-vp6mTulq2bqOq7xcH5rvy_axDU5U8Tq7e9bPTgAk/edit?usp=sharing)
+* Subscribe to the AI Alliance Community Newsletter at the bottom of any [AI Alliance website](https://thealliance.ai/) page. 
+* Process: Copy this template to a new page at the beginning of the month (ex: March 1st). Add ideas to the page during the month. At the end of the month (March 31st), copy/paste the ideas into the [Community Newsletter Word Template](https://docs.google.com/document/d/1wL-vp6mTulq2bqOq7xcH5rvy_axDU5U8Tq7e9bPTgAk/edit?usp=sharing). Use that document to continue to add/review/finalize the newsletter. Then copy/pste to Hubspot and send!
 
 Hello friends, 
 
-We are excited to bring you our our inaugural community newsletter. In it you will find times for our working group meetings. 
+We are excited to bring you our the first community newsletter. In it you will find important dates and times for our working group meetings, upcoming webinars, and other goings-ons that will help you learn, share and participate in our community. 
 
 Scroll to the bottom for ways you can participate in our community. Hhe
 
@@ -45,15 +46,10 @@ Scroll to the bottom for ways you can participate in our community. Hhe
 * to be scheduled domain specific: Industrial, Legal, Finance, ...
 
 
-## Participate in our community
+## Contribute to our community
+* Speak - at an upcoming AI conference or online webinar
+* Write - Write a blog post, or contribute to this newsletter 
+* Organizer an event - Organize an event in your region
 
-Call for Speakers
-* Speak at an upcoming AI conference or online webinar
 
-Call for Bloggers
-* Write a blog post for the AI Alliance (C4
-
-Organizer an event
-* Organize an event in your region
-* 
 
