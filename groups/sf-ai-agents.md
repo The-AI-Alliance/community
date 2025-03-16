@@ -9,7 +9,7 @@
 
 ## Proposed Speakers
 * Someone from OpenAI
-* Dr. Max Maximilian	IBM	Bee.AI
+* Dr. Max Maximilian, IBM	Research - Bee.AI
 
 ## Future
 
