@@ -8,20 +8,14 @@ Topics:
 ### FA2 - Trust & Safety
 Topics: AI risks can broadly be grouped into three categories:
 * Security - threats to data integrity, privacy, system vulnerabilities could lead to data breaches, identity theft, cyberattacks or misuse of AI-generated content.
-* Ethical - Ethical risks involve bias, discrimination, transparency, and accountability issues in AI decision-making.
-* Operational - Operational risks impact the reliability, efficiency, and effectiveness of AI systems in real-world tasks.
-
-* Security risks: 
-
-Ethical risks: Bias, discrimination, unfair decision making 
-
-Operational risks: System failures, inaccurate predictions, lack of adaptability
+* Ethical - Ethical risks involve bias, discrimination, transparency, and unfair decision making 
+* Operational - Operational risks impact the reliability, efficiency, system failures, inaccurate predictions and lack of adaptability
 
 Projects:
 * [Trust & Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/)
 * [Trust & Safety Evals](https://the-ai-alliance.github.io/trust-safety-evals/)
 * [Ranking Safety Priorities](https://the-ai-alliance.github.io/ranking-safety-priorities/)
-* [Trust & Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/) (TSEI) - Seeks to create a hub that connects creators and consumers of evaluations in a sustainable value chain.
+* [Trust & Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/) (TSEI) - Seeks to create a hub of evaluations in a sustainable value chain.
 
 Needs: 
 * Need: Jonathan needs to identify which research institutes and Startups/SMBs to reach out to. Target 12 Fine tuning or application development. Creating benchmarks (taking commercially available models to tailor to their specific needs). And those who are looking for benchmarks. 
