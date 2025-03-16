@@ -1,5 +1,6 @@
 # AI Alliance Projects by Focus Area 
-## [Core Projects](https://thealliance.ai/core-projects)
+## Links to [Core Projects](https://thealliance.ai/core-projects) & [Affiliated Projects](https://thealliance.ai/affiliated-projects)
+See [proposed projects here](proposed-projects.md)
 
 ### FA1 - Skills & Education
 Topics: 
@@ -42,7 +43,4 @@ Others: Which FA?
 * https://the-ai-alliance.github.io/open-trusted-model-initiative/
 * https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/
 
-##   [Affiliated Projects](https://thealliance.ai/affiliated-projects)
 
-### Proposed:
-- [Risk Atlas Nexus](https://github.com/IBM/risk-atlas-nexus)
