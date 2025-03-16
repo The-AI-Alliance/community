@@ -1,6 +1,6 @@
 # AI Alliance Projects by Focus Area 
 ## Links to [Core Projects](https://thealliance.ai/core-projects) & [Affiliated Projects](https://thealliance.ai/affiliated-projects)
-See [proposed projects here](project-ideas.md)
+See [proposed project ideas here](project-ideas.md)
 
 ### FA1 - Skills & Education
 Topics: 
