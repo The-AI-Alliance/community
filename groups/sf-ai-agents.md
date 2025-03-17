@@ -8,7 +8,7 @@
 * [Dr. Sandi Besen](https://www.linkedin.com/in/sandibesen/), AI Applied Research at Neudesic, "Bee.AI"		
 
 ## Proposed Speakers
-* Someone from OpenAI
+* Someone from OpenAI, Anthropic
 * Dr. Max Maximilian, IBM	Research - Bee.AI
 
 ## Future
