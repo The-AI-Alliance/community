@@ -64,5 +64,5 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 
 ### December
 * 1-5 [AWS Re:Invent](https://reinvent.awsevents.com) - Las Vegas, NV (USA)
-
+* 2-7 [NeurIPS](https://neurips.cc/) - San Diego, CA (USA)
 ## 2026
