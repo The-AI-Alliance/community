@@ -27,6 +27,7 @@ Topics: AI risks can broadly be grouped into three categories:
 * Operational - Operational risks impact the reliability, efficiency, system failures, inaccurate predictions and lack of adaptability
 
 ### FA3 - Application & Tools
+* Application Patterns and Tools - Meets Every 2 weeks from 8am to 9am Pacific time
 * [Open Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/) (ODTI)
 * https://the-ai-alliance.github.io/applying-ai-guide/
 

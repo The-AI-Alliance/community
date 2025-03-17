@@ -8,8 +8,8 @@
 * [Sandi Besen](https://www.linkedin.com/in/sandibesen/), AI Applied Research at Neudesic and Ismael Faro, VP and Distinguished Engineer, IBM Research, "Bee.AI"
 
 ## Proposed Speakers
-* Someone from OpenAI
-* Dr. Max Maximilien, IBM	Research - Bee.AI
+* Someone from OpenAI, Anthropic
+* Dr. Max Maximilian, IBM	Research - Bee.AI
 
 ## Future
 
