@@ -19,7 +19,7 @@ Projects:
 * [Trust & Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/)
 * [Trust & Safety Evals](https://the-ai-alliance.github.io/trust-safety-evals/)
 * [Ranking Safety Priorities](https://the-ai-alliance.github.io/ranking-safety-priorities/)
-* [Trust & Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/) (TSEI) - Seeks to create a hub of evaluations in a sustainable value chain.
+* [Trust & Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/) (TSEI) ([intro slides)](https://docs.google.com/presentation/d/11GdLAJ5BYUxpeQS2DLdOxZgLHhpZZdXX/edit#slide=id.p1) - Seeks to create a hub of evaluations in a sustainable value chain.
 
 Topics: AI risks can broadly be grouped into three categories:
 * Security - threats to data integrity, privacy, system vulnerabilities could lead to data breaches, identity theft, cyberattacks or misuse of AI-generated content.
