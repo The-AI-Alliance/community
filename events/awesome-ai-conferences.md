@@ -36,11 +36,13 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 
 ### June
 * 16-17 [Paris Conference for AI Ethics](https://paris-conference.com) - <a href="https://paris-conference.com/papers-submit/"><img alt="AI Ethics Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%201-May-2025&color=red"></a>
+* 23-27 [Toronto Tech Week](https://www.torontotechweek.com/) - Toronto (Canada)
 * 25-27 [NYC AI4Chemistry Summit](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit) - NYC, NY (USA) <a href="https://wp.nyu.edu/sccpc/abstract-submission/"><img alt="AI4Chemistry Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%201-May-2025&color=red"></a>
 
 ### July
 * 8-9 [BEAM](https://beamsummit.org) - New York, NY (USA) 
 * 8-11 [AI 4 X Conference](https://ai4x.cc) - (Singapore) <a href="https://beamsummit.org/cfp-2025/"><img alt="AI 4 X Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Mar-2025&color=red"></a> 
+* 13-19 [ICML | International Conference on Machine Learning](https://icml.cc/) - Vancouver (Canada) <a href="https://icml.cc/Conferences/2025/CallForPapers/"><img alt="ICML" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jan-2025&color=red"></a> 
 
 ### August
 * Open Source Summit India 
