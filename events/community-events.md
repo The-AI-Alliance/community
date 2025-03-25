@@ -2,7 +2,7 @@
 
 This GitHub repo lists AI Alliance Community events (meet-ups, user groups, workshops, conferences, etc.) where our members are actively engaged (speaking, organizing, hosting, sponsoring, etc.). .
 
-Want to contribute? Add an event, or offer a venue, or speak or sponsor.  By contributing to this repo, you can help conference organizers. Another goal of this [age is to create conferences for AI engineers, developers and researchers.
+Want to contribute? Add an event, or offer a venue, or speak or sponsor.  By contributing to this repo, you can help conference organizers. Another goal of this page is to create conferences for AI engineers, developers and researchers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
 See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Office Hours](../online/office-hours.md)
@@ -32,7 +32,8 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 * 
 
 ### April
-* 1 [AI Agentic Meetup]() - San Francisco, CA (USA)
+* 1 [AI Agentic Meetup](https://lu.ma/cspedjbp) - San Francisco, CA (USA)
+* 4 [Vancouver AI Meetup (VAM)](https://lu.ma/3plvmyg1) - Vancouver (Canada)
 
 ### May
 *
@@ -41,13 +42,14 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 * 25-27 [NYC AI4Chemistry Summit](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit) - NYC, NY (USA) <a href="https://wp.nyu.edu/sccpc/abstract-submission/"><img alt="CFP AI4Chemistry" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=red"></a>
 
 ### July
+* 7-13 [SciPy](https://www.scipy2025.scipy.org/) - Tacoma, WA (USA)
 * 10 Researchers Meetup - Trieste (Italy) - Looking for speakers
 
 ### August
 *
 
 ### September
-*
+* 17-18 [AI Conference](https://aiconference.com/) - San Francisco, CA (USA)
 
 ### October
 * TBD: AI Alliance Conference - New York (US) <a href="https://sessionize.com/techmang/"><img alt="CFP Mangaluru Tech Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-January-2025&color=red"></a>
