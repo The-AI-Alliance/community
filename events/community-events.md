@@ -28,7 +28,6 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 * 7 [Navigating AI Together](https://www.eventbrite.com/e/navigating-ai-together-a-bay-area-community-college-unconference-tickets-1231783340129) - Mountain view, CA (USA)
 * 12-14 [AI Semiconductor Conference](https://www.aisc.events) - Hanoi (Vietnam)
 * 18 [GTC Hack Night] (https://lu.ma/hacknight-sanjose-03-18-2025?tk=c0A9PZ) - San Jose, CA (USA)
-* 27 [Special San Jose AI Meetup]() - San Jose, CA (USA)
 * 
 
 ### April
