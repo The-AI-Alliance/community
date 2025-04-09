@@ -6,6 +6,9 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 * [Big Data, Analytics, and Machine Learning](https://www.meetup.com/big-data-analytics-and-machine-learning/)
 * [Data Science Network](https://www.meetup.com/datasciencenetwork/) 
 
+### Indochina (Vietnam, Cambodia, Laos)
+* Thao Griffiths, Meta (based out of Singapore)
+
 ## Europe
 
 ### Amsterdam
@@ -36,7 +39,7 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 
 ### Trieste
 * [ICTP](https://www.ictp.it)
-  
+
 ### Zurich
 * PyData
 
