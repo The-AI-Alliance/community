@@ -1,10 +1,12 @@
 # AI Alliance resources:
 
 ## Logo and Wordmark 
-* [Logo on black](https://github.com/The-AI-Alliance/community/blob/main/resources/images/Symbol_main_on_black.jpg)
-* [Logo on white](https://github.com/The-AI-Alliance/community/blob/main/resources/images/Symbol_main_on_white.jpg)
-* [Wordmark Pos (black on transparent background)](https://github.com/The-AI-Alliance/community/blob/main/resources/images/ai_alliance_wordmark_pos.png)
-* [Wordmark Rev (white on transparent background)](https://github.com/The-AI-Alliance/community/blob/main/resources/images/ai_alliance_wordmark_rev.png)
+* [Logo (on black background)](images/Symbol_main_on_black.jpg)
+* [Logo (on transparent background)](images/Symbol_main_on_white.jpg)
+* [All Logos](images/02%20Symbol-20250409T164404Z-001.zip)
+* [Wordmark Pos (black on transparent background)](images/ai_alliance_wordmark_pos.png)
+* [Wordmark Rev (white on transparent background)](images/ai_alliance_wordmark_rev.png)
+* [All Wordmarks](images/01%20Logotype-20250409T164407Z-001.zip)
 
 ## Technical Resources
 ### [Hugging Face Space](https://huggingface.co/aialliance)
