@@ -2,15 +2,15 @@ This Community repo is where our community shares community events, content and 
 
 Quick Links: [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([online](), [in-person](/events/2025/readme.md)), [Website](/website/readme.md), [Projects](/projects/readme.md), and [Resources](/resources/readme.md)
 
-# Upcoming Events 
+## Upcoming Events 
 
-## [Community Events](https://github.com/The-AI-Alliance/community/blob/main/events/readme.md)
+#### [Community Events](https://github.com/The-AI-Alliance/community/blob/main/events/readme.md)
 
-# AI Alliance & Affiliated Groups
-## [By Region](https://github.com/The-AI-Alliance/community/blob/main/groups/regional.md)
-## [Online](https://github.com/The-AI-Alliance/community/blob/main/online/office-hours.md)
+## AI Alliance & Affiliated Groups
+#### [By Region](https://github.com/The-AI-Alliance/community/blob/main/groups/regional.md)
+#### [Online](https://github.com/The-AI-Alliance/community/blob/main/online/office-hours.md)
 
-# Documents
+## Documents
 Related AI Alliance projects, such as code of conduct, and other community-related content of general interest to AI Alliance members and consumers of Alliance content and projects. The AI Alliance [contribute](https://thealliance.ai/contribute) page discusses our requirements for contributing to Alliance projects. 
 #### [Code of Conduct](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT.md)
 #### [Code of Conduct: Committee](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT_COMMITTEE.md)
@@ -19,5 +19,5 @@ Related AI Alliance projects, such as code of conduct, and other community-relat
 #### [License: CDLA 2.0](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.CDLA-2.0)
 #### [Maintainers](https://github.com/The-AI-Alliance/community/blob/main/MAINTAINERS.md)
 
-# To Do
-### Governance Doc
+## To Do
+#### Governance Doc
