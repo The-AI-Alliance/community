@@ -1,53 +1,39 @@
-# Online Office Hours
+# Office Hours
 
 See also: [AI Awesome AI Conferences](../events/awesome-ai-conferences.md) and [Community Events](../events/readme.md)
 
-# Upcoming
+Welcome to the AI Alliance Office Hours. See below for upcoming sessions and past recordings. 
 
-## 2025
+## 🔗 [the-ai-alliance.github.io/office-hours](https://the-ai-alliance.github.io/office-hours/)
 
-### March
-* 6 [AI Alliance Office Hour - Introducing Gneissweb: A State-Of-The-Art LLM Pre-training Dataset](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/events/306423583/) by Shahrokh Daijavad (IBM Research)
-* 13 Comming Soon
-* 20 Comming Soon
-* 27 Comming Soon
+<img src="https://github.com/The-AI-Alliance/office-hours/raw/main/assets/qrcode_the-ai-alliance.github.io.png" width="400px">
 
-### April
-* 3
-* 10
-* 17
-* 24
+## About
 
-### May
-* 1
-* 8
-* 15
-* 22
-* 29
+Office Hours are held every week, offering engaging talks and live Q&A sessions with experts from Alliance projects and technologies. Join us for insights, ask questions, and connect with innovators at the forefront of AI development.
 
-### June
-* 5
-* 12
-* 19
-* 26
+🗓️ : **Every Thursday**  
+⏰ : **9 am Pacific | 11 am Central | 12 pm Eastern | 5pm GMT**
 
-### July
-* 3
-* 10
-* 17
-* 24
-* 31
+[Sign up here](https://www.meetup.com/ibm-developer-sf-bay-area-meetup) 
 
-# Past
+## Events
 
-### January
-* 30 [AI Alliance Office Hour - Getting Started with Docling and Data Prep Kit](http://meetup.com/ibm-developer-sf-bay-area-meetup/)  by Sujee Maniyam (AI Alliance)
+(latest first)
 
-### February
-* 6 [AI Alliance Office Hour - An in-depth look at Data Prep Kit](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/events/305887916/) by Sujee Maniyam (AI Alliance)
-* 13 [AI Alliance Office Hour - RAG pipeline with Data Prep Kit + Milvus + Llama](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/events/305888517/) by Sujee Maniyam (AI Alliance), 
-* 20 [AI Alliance Office Hour - Making Your First Commit To Open Source](https://www.youtube.com/watch?v=sQkxoic7sLI) by Trevor Grant (AI Alliance)
-* 27 [AI Alliance Office Hour - Talk TBD]() - Virtual
+- **2025-Apr-17:** AI Red-Teaming: Stress Testing AI Systems for Safety & Reliability
+- **2025-Apr-10:** [Simplifying DPK Pipeline Creation with Agentic Workflows](events/2025-04-10__dpk-pipeline-with-agentic-workflows.md)
+- **2025-Apr-03:** TBA
+- **2025-Mar-27:** [Workshop: Preparing High Quality Datasets with Data Prep Kit](events/2025-03-27__high-quality-dataset-with-dpk.md)
+- **2025-Mar-20:** [Workshop: Hands on with Data Prep Kit](events/2025-03-20__data-prep-kit-hands-on.md) by Sujee Maniyam (Node51)
+- **2025-Mar-13:** [Workshop: Hands on with Docling](events/2025-03-13__docling-hands-on.md) by Sujee Maniyam (Node51)
+- **2025-Mar-06:** [Introducing GneissWeb -  a State-of-the-Art LLM pre-training dataset](events/2025-03-06__gneissweb.md) by Shahrokh Daijavad (IBM Research)
+- **2025-Feb-27:** [Review of Data Preparation Tools and Q&A](events/2025-02-27__data-prep-review.md) by Sujee Maniyam (Node51)
+- **2025-Feb-20:** [How to Contribute to an Open Source Project](events/2025-02-20__contributing-open-source.md) by Trevor Grant (AI Alliance)
+- **2025-Feb-13:** [Open Source RAG Pipeline using Data Prep Kit + Milvus + Granite](events/2025-02-13__RAG-dataprepkit-milvus-granite.md) by Sujee Maniyam (Node51)
+- **2025-Feb-06:** [Data Preparation using Data Prep Kit](events/2025-02-06__data-prep-kit.md) by Sujee Maniyam (Node51)
+- **2025-Jan-30:** [Data Processing using Docling](events/2025-01-30__docling.md) by Sujee Maniyam (Node51)
+
  
 
 
