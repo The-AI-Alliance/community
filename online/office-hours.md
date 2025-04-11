@@ -4,7 +4,7 @@ See also: [AI Awesome AI Conferences](../events/awesome-ai-conferences.md) and [
 
 Welcome to the AI Alliance Office Hours. See below for upcoming sessions and past recordings. 
 
-## 🔗 [the-ai-alliance.github.io/office-hours](https://the-ai-alliance.github.io/office-hours/)
+## 🔗 [community/office-hours](https://github.com/The-AI-Alliance/community/edit/main/online/office-hours.md)
 
 <img src="https://github.com/The-AI-Alliance/office-hours/raw/main/assets/qrcode_the-ai-alliance.github.io.png" width="400px">
 
@@ -13,7 +13,7 @@ Welcome to the AI Alliance Office Hours. See below for upcoming sessions and pas
 Office Hours are held every week, offering engaging talks and live Q&A sessions with experts from Alliance projects and technologies. Join us for insights, ask questions, and connect with innovators at the forefront of AI development.
 
 🗓️ : **Every Thursday**  
-⏰ : **9 am Pacific | 11 am Central | 12 pm Eastern | 5pm GMT**
+⏰ : **9 am Pacific | 11 am Central | 12 pm Eastern | 5 pm GMT**
 
 [Sign up here](https://www.meetup.com/ibm-developer-sf-bay-area-meetup) 
 
