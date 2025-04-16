@@ -5,7 +5,7 @@ Quick Links: [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([onl
 ## Upcoming Events 
 
 #### [Community Events](https://github.com/The-AI-Alliance/community/blob/main/events/readme.md)
-* [AI Alliance office hours](office-hours/README.md) - Weekly Online Office Hours
+* [AI Alliance office hours](events/office-hours/README.md) - Weekly Online Office Hours
 * [AI Alliance Community Events](community-events.md) - Find and add AI Alliance-related events here
 * [Awesome AI Conferences](awesome-ai-conferences.md) - Find and add awesome AI events here
 
