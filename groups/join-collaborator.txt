@@ -1,0 +1,27 @@
+Hello,
+ 
+Thank you for filling out the collaborator application. Would you like to work on your own project, or join an existing one? 
+
+If you aren’t sure, would you like to join one of the
+
+Another option is you can join one of the following working group weekly meetings. 
+* Trust and Safety Evaluations
+* Knowledge (ex: RAG and GraphRAG)
+* Model and Data 
+* Domain specific
+* AI Agents
+ 
+We could also jump on a call if that would help.
+ 
+What do you think?
+ 
+Best,
+Dave
+ 
+-- 
+Dave Nielsen – Linkedin Head of Community – AI Alliance IBM Research
+ 
+It looks like you’re interested in:
+*  
+And you have the following interests: 
+*  
