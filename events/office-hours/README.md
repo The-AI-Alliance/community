@@ -23,6 +23,12 @@ Coming soon.
 
 (latest first)
 
+- **2025-May-22:** Knowledge Graphs for Enterprise AI
+- **2025-May-15:** Model and Agent Evaluation with Unitxt
+- **2025-May-8:** GneissWeb: Preparing High Quality Data for LLMs at Scale
+- **2025-May-1:** Chat with your website using an LLM
+- **2025-Apr-24:** Introducing gofannon
+- **2025-Apr-17:** AI Red-Teaming: Stress Testing AI Systems for Safety & Reliability
 - **2025-Apr-10:** [Simplifying DPK Pipeline Creation with Agentic Workflows](2025-04-10__dpk-pipeline-with-agentic-workflows.md)
 - **2025-Apr-03:** [Hyper Parameter Optimization for Computer Vision using TerraTorch](2025-04-03__terratorch.md)
 - **2025-Mar-27:** [Workshop: Preparing High Quality Datasets with Data Prep Kit](2025-03-27__high-quality-dataset-with-dpk.md)
