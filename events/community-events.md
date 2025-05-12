@@ -17,7 +17,6 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 * 23 [IBM TechXchange Day - Virtual Agents](https://ibmtechxchange-virtual-agents.bemyapp.com) - Virtual
 * 24-26 [AI for Connectivity Hackathon](https://lablab.ai/event/ai-for-connectivity-hackathon) - Geneva (Switzerland)
 
-
 ### February
 * 5 [AI Alliance Meetup](https://lu.ma/vejv8xcx) - Paris (France) - Speakers (3 AI Alliance Members)
 * 11 [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) - Paris (France) - Sponsor
@@ -28,24 +27,25 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 * 7 [Navigating AI Together](https://www.eventbrite.com/e/navigating-ai-together-a-bay-area-community-college-unconference-tickets-1231783340129) - Mountain view, CA (USA)
 * 12-14 [AI Semiconductor Conference](https://www.aisc.events) - Hanoi (Vietnam)
 * 18 [GTC Hack Night] (https://lu.ma/hacknight-sanjose-03-18-2025?tk=c0A9PZ) - San Jose, CA (USA)
-* 
-
+  
 ### April
-* 1 [AI Agentic Meetup](https://lu.ma/cspedjbp) - San Francisco, CA (USA)
+* 1 [AI Agent Meetup](https://lu.ma/cspedjbp) - San Francisco, CA (USA)
 * 4 [Vancouver AI Meetup (VAM)](https://lu.ma/3plvmyg1) - Vancouver (Canada)
 
 ### May
-*
+* 6 [AI Agent Meetup](https://lu.ma/i499vcak) - San Francisco, CA (USA)
 
 ### June
+* 3 [AI Agent Meetup]() - San Francisco, CA (USA)
 * 25-27 [NYC AI4Chemistry Summit](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit) - NYC, NY (USA) <a href="https://wp.nyu.edu/sccpc/abstract-submission/"><img alt="CFP AI4Chemistry" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=red"></a>
 
 ### July
+* 1 [AI Agent Meetup]() - San Francisco, CA (USA)
 * 7-13 [SciPy](https://www.scipy2025.scipy.org/) - Tacoma, WA (USA)
 * 10 Researchers Meetup - Trieste (Italy) - Looking for speakers
 
 ### August
-*
+* 5 [AI Agent Meetup](https://lu.ma/i499vcak) - San Francisco, CA (USA)
 
 ### September
 * 17-18 [AI Conference](https://aiconference.com/) - San Francisco, CA (USA)
