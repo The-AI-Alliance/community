@@ -34,6 +34,7 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 
 ### May
 * 6 [AI Agent Meetup #2](https://lu.ma/i499vcak) - San Francisco, CA (USA)
+* 21 [Graph Exchange: AI Agents and Knowledge Graphs](https://lu.ma/liircw6o) - San Francisco, CA (USA)
 
 ### June
 * 3 [AI Agent Meetup #3](https://lu.ma/o648ixbd) - San Francisco, CA (USA)
