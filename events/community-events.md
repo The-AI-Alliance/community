@@ -29,20 +29,20 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 * 18 [GTC Hack Night] (https://lu.ma/hacknight-sanjose-03-18-2025?tk=c0A9PZ) - San Jose, CA (USA)
   
 ### April
-* 1 [AI Agent Meetup](https://lu.ma/cspedjbp) - San Francisco, CA (USA)
+* 1 [AI Agent Meetup #1](https://lu.ma/cspedjbp) - San Francisco, CA (USA)
 * 4 [Vancouver AI Meetup (VAM)](https://lu.ma/3plvmyg1) - Vancouver (Canada)
 
 ### May
-* 6 [AI Agent Meetup](https://lu.ma/i499vcak) - San Francisco, CA (USA)
+* 6 [AI Agent Meetup #2](https://lu.ma/i499vcak) - San Francisco, CA (USA)
 
 ### June
-* 3 [AI Agent Meetup](https://lu.ma/o648ixbd) - San Francisco, CA (USA)
+* 3 [AI Agent Meetup #3](https://lu.ma/o648ixbd) - San Francisco, CA (USA)
 * 12 [AI Agent Meetup](https://lu.ma/9vh5spxk) - Paris (France) 
 * 25-27 [NYC AI4Chemistry Summit](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit) - NYC, NY (USA) <a href="https://wp.nyu.edu/sccpc/abstract-submission/"><img alt="CFP AI4Chemistry" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=red"></a>
 * 26 [AI Agent Meetup](https://lu.ma/otnenctx) - Tokyo (Japan)  
 
 ### July
-* 1 [AI Agent Meetup]() - San Francisco, CA (USA)
+* 8 [AI Agent Meetup #4](https://lu.ma/3h56ba2z) - San Francisco, CA (USA)
 * 7-13 [SciPy](https://www.scipy2025.scipy.org/) - Tacoma, WA (USA)
 * 10 Researchers Meetup - Trieste (Italy) - Looking for speakers
 * 22 [AI Agent Meetup]() - Silicon Valley, CA (USA) - Neo4j speaker. Need venue, Food sponsor, 2 speakers
