@@ -49,6 +49,7 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 
 ### August
 * 5 [AI Agent Meetup](https://lu.ma/i499vcak) - San Francisco, CA (USA)
+* 14-16 [Open Source Festival (OSCAFest)](https://festival.oscafrica.org) - Lagos (Nigeria) - Submitted talk
 * 26 [AI Agent Meetup]() - Boston, MA (USA) - Neo4j speaker. Need venue, Food sponsor, 2 speakers
 
 ### September
