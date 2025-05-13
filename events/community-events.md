@@ -36,28 +36,36 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 * 6 [AI Agent Meetup](https://lu.ma/i499vcak) - San Francisco, CA (USA)
 
 ### June
-* 3 [AI Agent Meetup]() - San Francisco, CA (USA)
+* 3 [AI Agent Meetup](https://lu.ma/o648ixbd) - San Francisco, CA (USA)
+* 12 [AI Agent Meetup](https://lu.ma/9vh5spxk) - Paris (France) 
 * 25-27 [NYC AI4Chemistry Summit](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit) - NYC, NY (USA) <a href="https://wp.nyu.edu/sccpc/abstract-submission/"><img alt="CFP AI4Chemistry" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=red"></a>
+
 
 ### July
 * 1 [AI Agent Meetup]() - San Francisco, CA (USA)
 * 7-13 [SciPy](https://www.scipy2025.scipy.org/) - Tacoma, WA (USA)
 * 10 Researchers Meetup - Trieste (Italy) - Looking for speakers
+* 22 [AI Agent Meetup]() - Silicon Valley, CA (USA) - Neo4j speaker. Need venue, Food sponsor, 2 speakers
 
 ### August
 * 5 [AI Agent Meetup](https://lu.ma/i499vcak) - San Francisco, CA (USA)
+* 26 [AI Agent Meetup]() - Boston, MA (USA) - Neo4j speaker. Need venue, Food sponsor, 2 speakers
 
 ### September
+* 16 [AI Agent Meetup]() - New York, NYC (USA) - Neo4j speaker. Need venue, Food sponsor, 2 speakers
 * 17-18 [AI Conference](https://aiconference.com/) - San Francisco, CA (USA)
 
 ### October
-* TBD: AI Alliance Conference - New York (US) <a href="https://sessionize.com/techmang/"><img alt="CFP Mangaluru Tech Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-January-2025&color=red"></a>
+* TBD: AI Alliance Conference - San Francisco, cA (US) 
+* 21 [AI Agent Meetup]() - Atlanta, GA (USA) - Neo4j speaker. Need venue, Food sponsor, 2 speakers
 
 ### November
 * 17-19 [AI By the Bay](https://ai.bythebay.io/) - San Francisco, CA (USA) - AI Alliance is considering sponsoring
+* 25 [AI Agent Meetup]() - Chicago, IL (USA) - Neo4j speaker. Need venue, Food sponsor, 2 speakers
 
 ### December
-*
+* 16 [AI Agent Meetup]() - Paris (USA) - Neo4j speaker. Need venue, Food sponsor, 2 speakers
+
 
 ## 2026
 
