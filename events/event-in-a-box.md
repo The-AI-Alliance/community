@@ -40,7 +40,7 @@ WHAT’S THE PROCESS?
 11. Plan your registration process
 ---
 
-1. Planning the Event
+12. Planning the Event
 
 HOW DO WE DECIDE WHICH EVENTS TO SUPPORT
  
