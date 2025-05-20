@@ -38,6 +38,7 @@ See also: [AI Awesome AI Conferences](awesome-ai-conferences.md) and [Online Off
 
 ### June
 * 3 [AI Agent Meetup #3](https://lu.ma/o648ixbd) - San Francisco, CA (USA)
+* 11 [AI for Code: Theory and Practice](https://research.ibm.com/haifa/Workshops/AI-for-Code/index.html) - Haifa (Israel)
 * 12 [AI Agent Meetup](https://lu.ma/9vh5spxk) - Paris (France) 
 * 25-27 [NYC AI4Chemistry Summit](https://wp.nyu.edu/sccpc/nyc-ai4chemistry-summit) - NYC, NY (USA) <a href="https://wp.nyu.edu/sccpc/abstract-submission/"><img alt="CFP AI4Chemistry" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=red"></a>
 * 26 [AI Agent Meetup](https://lu.ma/otnenctx) - Tokyo (Japan)  
