@@ -19,7 +19,7 @@
 * [Logotype (black on transparent background)](images/Logotype_main_black_wordmark.png)
 * [Logotype (white on transparent background)](images/Logotype_main_white_wordmark.png)
 * [Logotype (white on gradient background)](images/Logotype_monochrome_on_gradient.jpg)
-* [All Logotypes](images/01%20Logotype-20250409T164407Z-001.zip)
+* [All Logotypes](images/01%20Logotype-20250409T164407Z-001.zip) (click 'raw file')
 
 
 
