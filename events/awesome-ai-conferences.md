@@ -45,10 +45,10 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 * 13-19 [ICML | International Conference on Machine Learning](https://icml.cc/) - Vancouver (Canada) <a href="https://icml.cc/Conferences/2025/CallForPapers/"><img alt="ICML" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jan-2025&color=red"></a> 
 
 ### August
-* Open Source Summit India 
+* 5 [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/) - Hyderabad, India
 
 ### September
-*
+* 24-25 [All In](https://allinevent.ai/pages/2025-programming) - Montreal (Canada)
 
 ### October
 * 6-9 [RISE AI Conference](https://lucyinstitute.nd.edu/news-events/rise-ai-society-conference/) - South Bend, IN (US) <a href="https://lucyinstitute.nd.edu/news-events/rise-ai-society-conference/rise-ai-conference-2025-call-for-submissions/"><img alt="CFP RISE AI Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-March-2025&color=red"></a>
