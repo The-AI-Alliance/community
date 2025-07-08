@@ -58,13 +58,14 @@ See also [Community Events](readme.md) and [Online Office Hours](../online/offic
 
 ### November
 * 7-8 [TechEquity Ai Summit](https://techequity-ai.org) - Mountain View, CA (USA) <a href="https://techequity-ai.org/become-a-speaker/"><img alt="CFP RISE AI Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a> (with Unconference on 7th & Speedgeeking on 8th)
-
-
-
 * 17-19 [AI By the Bay](https://ai.bythebay.io/) - San Francisco, CA (USA) <a href="https://sessionize.com/by-the-bay"><img alt="CFP AI By the Bay" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2025&color=red"></a>
 
 
 ### December
 * 1-5 [AWS Re:Invent](https://reinvent.awsevents.com) - Las Vegas, NV (USA)
 * 2-7 [NeurIPS](https://neurips.cc/) - San Diego, CA (USA)
+
 ## 2026
+
+### January
+* 20-27 [AAAI Conference on AI](https://aaai.org/conference/aaai/aaai-26/)
