@@ -13,7 +13,7 @@ Office Hours are held every week, offering engaging talks and live Q&A sessions 
 🗓️ : **Every Thursday**  
 ⏰ : **9 am Pacific | 11 am Central | 12 pm Eastern | 5pm GMT**
 
-[Sign up here](https://www.meetup.com/ibm-developer-sf-bay-area-meetup) 
+[Sign up here](https://events.thealliance.ai/ai-alliance-office-hours) 
 
 ###  Asia-Pacific
 
