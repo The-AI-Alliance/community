@@ -4,7 +4,7 @@ Our AI Alliance videos can be found at https://www.youtube.com/@thealliance_ai. 
 
 If you would like to give a talk, or recommend a speaker, reach out to us via our #Community Slack channel or email Dave Nielsen at dnielsen AT thealliance.ai. 
 
-##  Community YouTube Projects
+## Our Projects
 * [Community Project Intros](https://www.youtube.com/playlist?list=PLx3IPY60uZ15ZhHmzX_q0PsC5ix-dCRuA)
 
 ## Community Office Hours
