@@ -1,23 +1,24 @@
 # AI Alliance Community Office Hours
 
-Welcome to the AI Alliance Community Office Hours where we offer technical talks from member of our community. See below for upcoming sessions and past recordings. 
+Welcome to the AI Alliance Community Office Hours where we offer technical talks from member of our community. See below for upcoming sessions and past recordings.  Community Office Hours are held every week, offering engaging talks and live Q&A sessions with experts from Alliance projects and technologies. Join us for insights, ask questions, and connect with innovators at the forefront of AI development.
 
 <!-- <img src="assets/qrcode_the-ai-alliance.github.io.png" width="400px"> -->
 
-## About
-
-Community Office Hours are held every week, offering engaging talks and live Q&A sessions with experts from Alliance projects and technologies. Join us for insights, ask questions, and connect with innovators at the forefront of AI development.
-
 ###  Americas
-
 🗓️ : **Every Thursday**  
 - **Welcome new members : 8:30 am Pacific | 10:30 am Central | 11:30 am Eastern | 4:30 pm GMT**
 - **Office Hours : 9:00 am Pacific | 11:00 am Central | 12:00 pm Eastern | 5:00 pm GMT**
 
 [Sign up here](https://events.thealliance.ai/ai-alliance-office-hours) 
 
-## Events
-
+## Upcoming
+- **2025-Oct-16:** How to Train Your LLM Web Agent: A Statistical Diagnosis by Massimo Cacccia of ServiceNow
+- **2025-Oct-23:** NLIP by Will Witten of ServiceNow
+- **2025-Oct-30:** Tentative - LangFlow by David Jones-Gilardi
+- **2025-Nov-06:** Tentative - Semiont by Adam Pingel
+- **2025-Nov-13:** Tentative - Agent Lab UI by Trevor
+  
+## Past Events
 (latest first)
 
 - **2025-May-22:** Knowledge Graphs for Enterprise AI
