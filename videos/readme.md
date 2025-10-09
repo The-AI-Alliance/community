@@ -10,5 +10,5 @@ If you would like to give a talk, or recommend a speaker, reach out to us via ou
 * [Materials & Chemistry Office Hours](https://www.youtube.com/watch?v=LjC_ThAtEBs&list=PLx3IPY60uZ14KOKjTE726eUB_dSgkm9YF)
 
 ## AI Alliance Events
-* [AI Alliance Meetups](https://www.youtube.com/playlist?list=PLx3IPY60uZ14KJfbQq-KoDiKKKBOJr-X3)
+* [AI Agent Meetups](https://www.youtube.com/playlist?list=PLx3IPY60uZ14KJfbQq-KoDiKKKBOJr-X3)
 * [Open Source Demo Night (Aug 8, 2024)](https://www.youtube.com/watch?v=9o7_uOEq59I&list=PLx3IPY60uZ14CHq2ESCutLZCILXRXha9T)
