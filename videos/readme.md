@@ -6,7 +6,7 @@ Our [AI Alliance YouTube Channel](https://www.youtube.com/@thealliance_ai) conta
 * [Community Project Intros](https://www.youtube.com/playlist?list=PLx3IPY60uZ15ZhHmzX_q0PsC5ix-dCRuA)
 
 ## Community Office Hours
-* [Community Demos & Office Hours](https://www.youtube.com/playlist?list=PLx3IPY60uZ16yyAJZvdOUFJNJv3MU3Rmy) [Get Notified](https://events.thealliance.ai/ai-alliance-office-hours)
+* [Community Demos & Office Hours](https://www.youtube.com/playlist?list=PLx3IPY60uZ16yyAJZvdOUFJNJv3MU3Rmy) - [Get Notified](https://events.thealliance.ai/ai-alliance-office-hours)
 * [Materials & Chemistry Office Hours](https://www.youtube.com/watch?v=LjC_ThAtEBs&list=PLx3IPY60uZ14KOKjTE726eUB_dSgkm9YF)
 
 ## Community Events
