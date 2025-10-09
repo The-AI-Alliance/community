@@ -1,15 +1,13 @@
-# AI Alliance Community Office Hours
+# AI Alliance Community Office Hours & Demos
 
-Welcome to the AI Alliance Community Office Hours where we offer technical talks from member of our community. See below for upcoming sessions and past recordings.  Community Office Hours are held every week, offering engaging talks and live Q&A sessions with experts from Alliance projects and technologies. Join us for insights, ask questions, and connect with innovators at the forefront of AI development.
+Community Office Hours are where you'll find technical talks and demos from community members for community members. Join us for engaging talks and live Q&A sessions with experts from Alliance projects and related technologies at the forefront of AI development.
 
 <!-- <img src="assets/qrcode_the-ai-alliance.github.io.png" width="400px"> -->
 
 ###  Americas
-🗓️ : **Every Thursday**  
+🗓️ : **Every Thursday**  [Sign up here](https://events.thealliance.ai/ai-alliance-office-hours) 
 - **Welcome new members : 8:30 am Pacific | 10:30 am Central | 11:30 am Eastern | 4:30 pm GMT**
 - **Office Hours : 9:00 am Pacific | 11:00 am Central | 12:00 pm Eastern | 5:00 pm GMT**
-
-[Sign up here](https://events.thealliance.ai/ai-alliance-office-hours) 
 
 ## Upcoming
 - **2025-Oct-16:** How to Train Your LLM Web Agent: A Statistical Diagnosis by Massimo Cacccia of ServiceNow
