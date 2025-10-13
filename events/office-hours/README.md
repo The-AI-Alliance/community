@@ -6,8 +6,8 @@ Community Office Hours are where you'll find technical talks and demos from comm
 
 <!-- <img src="assets/qrcode_the-ai-alliance.github.io.png" width="400px"> -->
 
-###  Americas
-🗓️ : **Office Hours Every Thursday - 9:00 am Pacific | 11:00 am Central | 12:00 pm Eastern | 5:00 pm GMT** [Sign up here](https://events.thealliance.ai/ai-alliance-office-hours) 
+###  Community Office Hours
+🗓️ **Every Thursday - 9:00 am Pacific | 11:00 am Central | 12:00 pm Eastern | 5:00 pm GMT** [Sign up here](https://events.thealliance.ai/ai-alliance-office-hours) 
 - **Would you like to speak?** [Sign up here](https://forms.gle/TvkEe4GnnD4HC8mX7)  
 - **Welcome new members : 8:30 am Pacific | 10:30 am Central | 11:30 am Eastern | 4:30 pm GMT**
 
