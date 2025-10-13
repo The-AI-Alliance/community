@@ -9,7 +9,7 @@ Community Office Hours are where you'll find technical talks and demos from comm
 - **Welcome new members : 8:30 am Pacific | 10:30 am Central | 11:30 am Eastern | 4:30 pm GMT**
 - **Office Hours : 9:00 am Pacific | 11:00 am Central | 12:00 pm Eastern | 5:00 pm GMT**
 
-## Upcoming
+## Upcoming [Would you like to speak](https://forms.gle/TvkEe4GnnD4HC8mX7)  
 - **2025-Oct-16:** How to Train Your LLM Web Agent: A Statistical Diagnosis by Massimo Cacccia of ServiceNow
 - **2025-Oct-23:** NLIP by Will Witten of ServiceNow
 - **2025-Oct-30:** Tentative - LangFlow by David Jones-Gilardi
