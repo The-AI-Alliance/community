@@ -1,4 +1,4 @@
-This repo is where our AI Alliance community shares meetings, events, projects and activities that members can contribute to and participate in. Add to any of these community lists by submitting a pull request, contacting dnielsen@thealliance.ai, or joining one of our meetings:
+This repo is where our AI Alliance community shares meetings, events, projects and activities that members can contribute to and participate in. Add to any of these community lists by submitting a pull request, contacting dnielsen AT thealliance.ai, or joining one of our meetings:
 
 Quick Links: [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([online](https://github.com/The-AI-Alliance/community/tree/main/events/office-hours), [in-person](https://thealliance.ai/events)), [Projects](https://github.com/the-ai-alliance/), and [Resources](/resources/readme.md)
 
