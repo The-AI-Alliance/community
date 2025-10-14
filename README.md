@@ -3,8 +3,8 @@ This repo is where our AI Alliance community shares meetings, events, projects a
 Quick Links: [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([online](https://github.com/The-AI-Alliance/community/tree/main/events/office-hours), [in-person](https://thealliance.ai/events)), [Projects](https://github.com/the-ai-alliance/), and [Resources](/resources/readme.md)
 
 ## New to our Community?
-Join our Community Team Meetings: Tuesday #1 and Tuesday #2
-- 🗓️ **Tuesday Meeting #1 6:30 am Pacific | 9:30 am Eastern | 5:00 pm GMT** [Google Meet link](https://meet.google.com/awx-nmrg-hvo)
+Join our weekly Community volunteer meetings: 
+- 🗓️ **Tuesday Meeting #1 6:30 am Pacific | 9:30 am Eastern | 3:30 pm CET** [Google Meet link](https://meet.google.com/awx-nmrg-hvo)
 - 🗓️ **Tuesday Meeting #2 4:30 pm Pacific | 7:30 pm Eastern | Wednesday 8:30 am Tokyo** [Google Meet link](https://meet.google.com/awx-nmrg-hvo)
 
 **Would you like to speak?** [Sign up here](https://forms.gle/TvkEe4GnnD4HC8mX7)  
