@@ -1,13 +1,13 @@
-This Community repo is where our community shares community events, content and activities that members can contribute to and participate in. Add to any of these community lists by submitting a pull request:
+This repo is where our AI Alliance community shares meetings, events, projects and activities that members can contribute to and participate in. Add to any of these community lists by submitting a pull request, contacting dnielsen@thealliance.ai, or joining one of our meetings:
 
 Quick Links: [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([online](https://github.com/The-AI-Alliance/community/tree/main/events/office-hours), [in-person](https://thealliance.ai/events)), [Projects](https://github.com/the-ai-alliance/), and [Resources](/resources/readme.md)
 
 ## New to our Community?
-* Join our Community Team Meetings: Tuesday #1 and Tuesday #2
-🗓️ **Tuesday Meeting #1 6:30 am Pacific | 9:30 am Eastern | 5:00 pm GMT** [Google Meet link](https://meet.google.com/awx-nmrg-hvo)
-🗓️ **Tuesday Meeting #2 4:30 pm Pacific | 7:30 pm Eastern | 8:30 am Tokyo** [Google Meet link](https://meet.google.com/awx-nmrg-hvo)
+Join our Community Team Meetings: Tuesday #1 and Tuesday #2
+- 🗓️ **Tuesday Meeting #1 6:30 am Pacific | 9:30 am Eastern | 5:00 pm GMT** [Google Meet link](https://meet.google.com/awx-nmrg-hvo)
+- 🗓️ **Tuesday Meeting #2 4:30 pm Pacific | 7:30 pm Eastern | Wednesday 8:30 am Tokyo** [Google Meet link](https://meet.google.com/awx-nmrg-hvo)
 
-- **Would you like to speak?** [Sign up here](https://forms.gle/TvkEe4GnnD4HC8mX7)  
+**Would you like to speak?** [Sign up here](https://forms.gle/TvkEe4GnnD4HC8mX7)  
 - **Welcome new members : 8:30 am Pacific | 10:30 am Central | 11:30 am Eastern | 4:30 pm GMT**
 * [Getting Started Guide](getting-started-guide.md) - How to get started as a member of the AI Alliance.
 
