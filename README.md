@@ -3,6 +3,7 @@ This Community repo is where our community shares community events, content and 
 Quick Links: [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([online](), [in-person](/events/2025/readme.md)), [Website](/website/readme.md), [Projects](/projects/readme.md), and [Resources](/resources/readme.md)
 
 ## New to our Community?
+* Join our Tuesday Community Team Meetings: 
 * [Getting Started Guide](getting-started-guide.md) - How to get started as a member of the AI Alliance.
 
 ## Upcoming Events 
