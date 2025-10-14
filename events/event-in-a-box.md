@@ -2,9 +2,9 @@
  
 ## Do you want to run an AI Alliance-affiliated event? 
 
-We are building a global community. Events are a big part of how we reach people. Since our small team cannot organize and attend every conference and event, we rely on our members to take initiative. The following page outlines how we can best work together.
+We are building a global community. Events are a big part of how we reach people. Since our small team cannot organize and attend every conference and event, we rely on our members to take initiative. This page outlines how we can best work together.
 
-TYPES OF EVENT FORMATS
+TYPE OF EVENT FORMATS
  
 The AI Alliance has been involved in organizing, hosting, and sponsoring the following types of event formats:
  
