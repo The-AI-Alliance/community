@@ -15,7 +15,7 @@ The AI Alliance has been involved in organizing, hosting, and sponsoring the fol
 * Happy hours / receptions
 * VIP dinners
 
-[Need help brainstorming your event ideas?](event-brainstorm.md)
+Need help brainstorming your event? [Join our Tuesday Community Team Meetings](event-brainstorm.md)
 
 WHAT’S THE PROCESS?
  
