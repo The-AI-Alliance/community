@@ -1,6 +1,6 @@
 This Community repo is where our community shares community events, content and activities that members can contribute to and participate in. Add to any of these community lists by submitting a pull request:
 
-Quick Links: [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([online](), [in-person](/events/2025/readme.md)), [Projects](/projects/readme.md), and [Resources](/resources/readme.md)
+Quick Links: [Blogs](/blog/readme.md), [Videos](/videos/readme.md), Events ([online](), [in-person](/events/2025/readme.md)), [Projects](https://github.com/the-ai-alliance/), and [Resources](/resources/readme.md)
 
 ## New to our Community?
 * Join our Tuesday Community Team Meetings: 
