@@ -1,4 +1,4 @@
-# AI Alliance Community Office Hours & Demos
+# Community Office Hours & Demos
 
 Community Office Hours are where you'll find technical talks and demos from community members for community members. Join us for engaging talks and live Q&A sessions with experts from Alliance projects and related technologies at the forefront of AI development.
 
