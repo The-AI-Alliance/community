@@ -1,4 +1,4 @@
-<img src="images/ai-alliance-logo-horiz-pos-blue-cmyk.png" alt="AI Alliance Banner" width="600"/> 
+<img src="resources/images/ai-alliance-logo-horiz-pos-blue-cmyk.png" alt="AI Alliance Banner" width="600"/> 
 
 This is where the [AI Alliance](https://aialliance.org) community shares information about projects, meetings, events, and other activities that you can contribute to and participate in. 
 
@@ -11,7 +11,8 @@ Consider joining one of our Community volunteer meetings (see below) or contribu
 * Events:
 	* [online](https://github.com/The-AI-Alliance/community/tree/main/events/office-hours)
 	* [in-person](https://thealliance.ai/events)
-* [Projects](https://github.com/the-ai-alliance/)
+* Projects:
+	* [List](https://github.com/the-ai-alliance/)
 	* [Contributor's Guide](CONTRIBUTING.md).
 	* [Contributing Projects to the AI Alliance](CONTRIBUTING_PROJECTS.md) - .How to propose projects for adoption by the Alliance.
 	* [Code of Conduct](CODE_OF_CONDUCT.md)
