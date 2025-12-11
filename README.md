@@ -2,7 +2,7 @@
 
 This is where the [AI Alliance](https://aialliance.org) community shares information about projects, meetings, events, and other activities that you can contribute to and participate in. 
 
-Consider joining one of our Community volunteer meetings (see below) or contributing to these pages. [Open a discussion](https://github.com/orgs/The-AI-Alliance/discussions), submit a [pull request](https://github.com/The-AI-Alliance/community/pulls), or [send us email](mailto:contact@thealliance.ai).
+Consider joining one of our Community volunteer meetings (see below) or contributing to these pages. [start a discussion](https://github.com/orgs/The-AI-Alliance/discussions), submit a [pull request](https://github.com/The-AI-Alliance/community/pulls), or [send us email](mailto:contact@thealliance.ai).
 
 ### Quick Links: 
 

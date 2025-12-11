@@ -2,7 +2,7 @@
 
 👍🎉 First off, thank you for taking the time to contribute to AI Alliance initiatives! 🎉👍
 
-This document describes our guidelines for contributing, whether it is a new project you want to bring to the AI Alliance or help with an existing project. They are guidelines, not rules. Use your best judgment and feel free to propose changes to this document in a [pull request](https://github.com/The-AI-Alliance/community/pulls), [open a discussion](https://github.com/orgs/The-AI-Alliance/discussions), or [send us email](mailto:contact@thealliance.ai).
+This document describes our guidelines for contributing, whether it is a new project you want to bring to the AI Alliance or help with an existing project. They are guidelines, not rules. Use your best judgment and feel free to propose changes to this document in a [pull request](https://github.com/The-AI-Alliance/community/pulls), a [discussion](https://github.com/orgs/The-AI-Alliance/discussions), or an [email](mailto:contact@thealliance.ai).
 
 ## What Should I Know Before I Get Started?
 
