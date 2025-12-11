@@ -6,7 +6,9 @@ This document describes our guidelines for contributing, whether it is a new pro
 
 ## What Should I Know Before I Get Started?
 
-We welcome contributions to Alliance projects, but contributors must accept certain agreements and conditions, discussed here. See also the [AI Alliance governance](https://thealliance.ai/governance) for more general information.
+We welcome contributions to Alliance projects. Each project repo or website provides specific details about getting involved. Of course, all of them accept pull requests, discussions, etc.
+
+However, we ask that all contributors accept certain agreements and conditions, discussed here. See also the [AI Alliance governance](https://thealliance.ai/governance) for more general information about AI Alliance policies.
 
 ### Two Kinds of Projects
 
