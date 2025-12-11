@@ -12,7 +12,7 @@ Consider joining one of our Community volunteer meetings (see below) or contribu
 	* [online](https://github.com/The-AI-Alliance/community/tree/main/events/office-hours)
 	* [in-person](https://thealliance.ai/events)
 * Projects:
-	* [List](https://github.com/the-ai-alliance/)
+	* [List and Descriptions](https://github.com/the-ai-alliance/)
 	* [Contributor's Guide](CONTRIBUTING.md).
 	* [Contributing Projects to the AI Alliance](CONTRIBUTING_PROJECTS.md) - .How to propose projects for adoption by the Alliance.
 	* [Code of Conduct](CODE_OF_CONDUCT.md)
