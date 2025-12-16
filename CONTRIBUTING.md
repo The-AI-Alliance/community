@@ -1,23 +1,35 @@
-# Contributing
+# Contributing and Getting Involved
 
-👍🎉 First off, thank you for taking the time to contribute to AI Alliance initiatives! 🎉👍
+👍🎉 First off, thank you for your interest in the AI Alliance initiatives! 🎉👍
 
-This document describes our guidelines for contributing, whether it is a new project you want to bring to the AI Alliance or help with an existing project. They are guidelines, not rules. Use your best judgment and feel free to propose changes to this document in a [pull request](https://github.com/The-AI-Alliance/community/pulls), a [discussion](https://github.com/orgs/The-AI-Alliance/discussions), or an [email](mailto:contact@thealliance.ai).
+### Direct links:
 
-## What Should I Know Before I Get Started?
+* [Receive our newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
+* [Join the Alliance](https://www.aialliance.org/join)
+	* Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)
+* [Submit a project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below)
+* [Submit a use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain 
+
+## Introduction
+
+Here we discuss guidelines you should know if you want to contribute a new project for us to support or adopt or you want to help with an existing project. 
+
+> We welcome feedback and improvements for these guidelines. Use a [pull request](https://github.com/The-AI-Alliance/community/pulls), start a [discussion](https://github.com/orgs/The-AI-Alliance/discussions), or send us [email](mailto:contact@thealliance.ai).
+
+### Two Kinds of Projects
+
+First, we have a flexible governance model for projects, reflected in two types:
+
+* **Core** projects live in the [`The-AI-Alliance`](https://github.com/The-AI-Alliance/) GitHub organization. They are wholly owned by the Alliance and maintained by Alliance members.
+* **Supported** projects meet needs that are important to the Alliance, but they are owned and managed elsewhere by Alliance members, with contributions from other Alliance collaborators.
+
+The best way to find out about all the existing projects is to browse `The-AI-Alliance` GitHub organization [README](https://github.com/The-AI-Alliance/) and corresponding [website](https://the-ai-alliance.github.io/). See also the Alliance website [Our Work](https://thealliance.ai/our-work) page, which is the best place to find out about non-coding projects, such as those for education and policy initiatives. 
+
+## What Should I Know Before I Contribute to the Alliance?
 
 We welcome contributions to Alliance projects. Each project repo or website provides specific details about getting involved. Of course, all of them accept pull requests, discussions, etc.
 
 However, we ask that all contributors accept certain agreements and conditions, discussed here. See also the [AI Alliance governance](https://thealliance.ai/governance) for more general information about AI Alliance policies.
-
-### Two Kinds of Projects
-
-We distinguish between two types of projects:
-
-* **Managed** projects live in the [`The-AI-Alliance`](https://github.com/The-AI-Alliance/) GitHub organization. They are wholly owned by the Alliance and maintained by Alliance members.
-* **Supported** projects meet needs that are important to the Alliance, but they are owned and managed elsewhere by Alliance members, with contributions from other Alliance collaborators.
-
-The best way to find out about all the existing projects is to browse `The-AI-Alliance` GitHub organization [README](https://github.com/The-AI-Alliance/) and [website](https://the-ai-alliance.github.io/). See also the Alliance website [Our Work](https://thealliance.ai/our-work) page, which is the best place to find out about non-coding projects, such as those for education and policy initiatives. The [Contributing Projects to the AI Alliance](CONTRIBUTING_PROJECTS.md) page discusses how you can propose projects for adoption by the Alliance.
 
 ### The AI Alliance Code of Conduct
 
@@ -35,11 +47,11 @@ The AI Alliance and its members are committed to compliance with applicable anti
 
 ## Contributing New Projects
 
-Do you have a project you think the AI Alliance might be interested in? See the separate [Contributing Projects to the AI Alliance](CONTRIBUTING_PROJECTS.md) page for how you can propose projects for adoption by the Alliance.
+Do you have a project you think the AI Alliance might be interested in? [Submit a project](https://events.thealliance.ai/aia-project) to let us know.
 
-## The Process for Contributing to Existing Projects
+## Processes for Contributing to Existing Projects
 
-For individual contributions to AI Alliance projects, we follow normal _GitOps_ practices. We ask that all work in a particular repo be contributed as a pull request where it will be built and tested automatically (for code changes), reviewed by committers, and merged when accepted.
+For individual contributions to AI Alliance projects, we follow normal _GitOps_ practices. We ask that all work in a particular repo be contributed as a pull request where it will be built and tested automatically (for code changes), reviewed by committers, and merged when accepted. You can skip the rest of this section if this is familiar to you, but be sure to understand our DCO requirement in the [Legal](#legal) section, which is a less common practice.
 
 ### Creating a Contribution
 
@@ -71,11 +83,11 @@ After submitting a pull request, maintainers will review it and may make suggest
 
 For a list of the maintainers, see the [MAINTAINERS.md](https://github.com/The-AI-Alliance/community/blob/main/MAINTAINERS.md) page.
 
-## Submitting Bug Reports
+### Submitting Bug Reports
 
 To submit a new bug report, raise an issue in the appropriate repository before creating a pull request. This ensures that the issue is properly tracked. To fix an existing bug, assign yourself a bug from the issues page of the desired repository. Then, submit a pull request for review.
 
-Bugs are tracked as GitHub issues in the corresponding repo.
+Bugs are tracked as GitHub issues in the corresponding repo. Many repos also have GitHub projects (overloaded word...) associated with them that provide a dashboard view of work planned, in progress, etc.
 
 ## Legal
 
@@ -83,7 +95,7 @@ We have tried to make it as easy as possible to make contributions, including ho
 
 ### "Developer Certificate of Origin"
 
-As mentioned above, we follow the [Developer's Certificate of Origin 1.1 (DCO)][DCO] process to manage code contributions, which is the same approach that [the Linux Kernel community uses][Linux-DCO]. 
+As mentioned previously, we follow the [Developer's Certificate of Origin 1.1 (DCO)][DCO] process to manage code contributions, which is the same approach that [the Linux Kernel community uses][Linux-DCO]. 
 
 We ask that all developers include a sign-off statement in the commit message. Here is an example `Signed-off-by` line, which indicates that the submitter accepts the DCO:
 
@@ -91,21 +103,21 @@ We ask that all developers include a sign-off statement in the commit message. H
 Signed-off-by: John Doe <john.doe@example.com>
 ```
 
-This can be included automatically in a git commit using the following command:
+Fortunately, this is easy to do; it will be included automatically in a git commit using the `-s` flag, as in the following example:
 
 ```shell
-git commit -s
+git commit -s -m 'bug fix' ...
 ```
 
 > **Tips:** 
 >
 > * If a commit is created that did not include the `-s` option, the original commit message can be edited by using the `git commit -s --amend` command. A "force push" must be done afterward to add the amended commit to a PR. See this [StackOverflow post](https://stackoverflow.com/questions/13043357/git-sign-off-previous-commits) for more information.
-> * Consider creating a git _alias_ that permanently adds the `-s` flag to all commits. For example, here is define a `cs` alias for this purpose:
+> * Consider creating a git _alias_ that permanently adds the `-s` flag to all commits. For example, here is how to define an alias for this purpose, `cs`:
 > 
 > ```shell
 > git config --global alias.cs "commit -s"
 > ...
-> git cs -m 'Some comment' changed_files
+> git cs -m 'bug fix' ...
 > ```
 > 
 > The alias will be added to your `~/.gitconfig` file.
@@ -115,17 +127,17 @@ If you don't want to make this a global alias, omit `--global` and run the comma
 ### Licenses
 
 Unless specifically stated otherwise, all Alliance projects are
-distributed under a suitable "open" license. Use the following guidelines:
+distributed under a suitable "open" license. We use the following guidelines:
 
 | Purpose | License | Website | SPDX License Identifier |
 | :------ | :------ | :------ | :---------------------- |
 | Code and Model Weights | [Apache License, Version 2.0](LICENSE.Apache-2.0) | [link](http://www.apache.org/licenses/LICENSE-2.0) | [link](https://spdx.org/licenses/Apache-2.0) |
-| Documentation and other written materials | [The Creative Commons License, Version 4.0 - `CC BY 4.0`](LICENSE.CC-BY-4.0) | [link](https://chooser-beta.creativecommons.org/) | [link](https://spdx.org/licenses/CC-BY-4.0.html) |
+| Documentation and similar materials | [The Creative Commons License, Version 4.0 - `CC BY 4.0`](LICENSE.CC-BY-4.0) | [link](https://chooser-beta.creativecommons.org/) | [link](https://spdx.org/licenses/CC-BY-4.0.html) |
 | Data | [CDLA Permissive 2.0](LICENSE.CDLA-2.0) | [link](https://cdla.dev/permissive-2-0/) | [link](https://spdx.org/licenses/CDLA-Permissive-2.0.html) |
 
 The AI Alliance leaves open the possibility of additional terms concerning safe and responsible use for certain elements in special core projects. For example, some model weights may be open for use, except for harmful purposes. Any decision to use any such additional terms for a core project must be made by the AI Alliance Steering Committee and will be clearly identified in the core project's repository.
 
-> **NOTE:** We discuss open licenses for data extensively in the [Open Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/), specifically [here](https://the-ai-alliance.github.io/open-trusted-data-initiative/dataset-requirements/#yaml-metadata-block) and [here](https://the-ai-alliance.github.io/open-trusted-data-initiative/catalog/#more-about-the-licenses).
+> **NOTE:** We discuss various open licenses for data extensively in the [Open Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/), specifically [here](https://the-ai-alliance.github.io/open-trusted-data-initiative/dataset-requirements/#yaml-metadata-block) and [here](https://the-ai-alliance.github.io/open-trusted-data-initiative/catalog/#more-about-the-licenses).
 
 [DCO]: https://developercertificate.org/
 [Linux-DCO]: https://docs.kernel.org/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin
