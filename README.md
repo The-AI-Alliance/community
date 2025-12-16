@@ -6,16 +6,21 @@ Consider joining one of our Community volunteer meetings (see below) or contribu
 
 ### Quick Links: 
 
+* Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
+* [Join](https://www.aialliance.org/join) the AI Alliance
+  	* Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)
+* Projects:
+	* [Submit a project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).
+	* [Submit a use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain. Help us help you build it!
+	* [Lists and Descriptions](https://github.com/the-ai-alliance/)
+	* [Contributor's Guide](CONTRIBUTING.md)
+	* [Contributing Projects and Use Cases](CONTRIBUTING.md)
+	* [Code of Conduct](CODE_OF_CONDUCT.md)
 * [Blogs](/blog/readme.md)
 * [Videos](/videos/readme.md)
 * Events:
 	* [online](https://github.com/The-AI-Alliance/community/tree/main/events/office-hours)
 	* [in-person](https://thealliance.ai/events)
-* Projects:
-	* [List and Descriptions](https://github.com/the-ai-alliance/)
-	* [Contributor's Guide](CONTRIBUTING.md).
-	* [Contributing Projects to the AI Alliance](CONTRIBUTING_PROJECTS.md) - .How to propose projects for adoption by the Alliance.
-	* [Code of Conduct](CODE_OF_CONDUCT.md)
 * [Resources](/resources/readme.md)
 * [Governance](https://thealliance.ai/governance)
 
@@ -45,7 +50,7 @@ Join one of our weekly Community volunteer meetings:
 We expect all collaborators on AI Alliance projects, community activities, etc. to follow our code of conduct and contribution guidelines. 
 
 * [Contributing](https://thealliance.ai/contribute) discusses our requirements for contributing to existing Alliance projects.
-* [Contributing Projects to the AI Alliance](CONTRIBUTING_PROJECTS.md) discusses how to propose projects for adoption by the Alliance.
+* [Contributing Projects to the AI Alliance](CONTRIBUTING.md) discusses how to propose projects for adoption by the Alliance.
 * [Code of Conduct](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT.md) lays out our expectations for acceptable community engagement.
 * [Code of Conduct: Committee](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT_COMMITTEE.md) discusses the committee that enforces the code of conduct.
 * [License: Apache 2.0](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.Apache-2.0) is our recommended open-source license for _code_ projects.
