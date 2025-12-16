@@ -45,9 +45,11 @@ Using DCO is discussed in more detail [below](#legal).
 
 The AI Alliance and its members are committed to compliance with applicable antitrust and competition laws. See the [AI Alliance Competition Law Guidelines](https://ai-alliance.cdn.prismic.io/ai-alliance/ZnNNb5m069VX15Z1_AIAllianceCompetitionLawGuidelines.pdf) for details.
 
-## Contributing New Projects
+## Contributing New Projects or Use Cases
 
 Do you have a project you think the AI Alliance might be interested in? [Submit a project](https://events.thealliance.ai/aia-project) to let us know.
+
+Tell us about your [key domain-specific use cases](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg). Help us help you build it and learn how best to apply AI to your domain!
 
 ## Processes for Contributing to Existing Projects
 
