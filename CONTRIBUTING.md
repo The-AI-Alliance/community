@@ -49,7 +49,7 @@ The AI Alliance and its members are committed to compliance with applicable anti
 
 Do you have a project you think the AI Alliance might be interested in? [Submit a project](https://events.thealliance.ai/aia-project) to let us know.
 
-Tell us about your [key domain-specific use cases](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg). Help us help you build it and learn how best to apply AI to your domain!
+Tell us about your [key domain-specific use cases](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg). Help us help you build them and learn how best to apply AI to your domain!
 
 ## Processes for Contributing to Existing Projects
 
