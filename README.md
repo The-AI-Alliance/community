@@ -19,8 +19,10 @@ Consider joining one of our Community volunteer meetings (see below) or contribu
 * [Blogs](/blog/readme.md)
 * [Videos](/videos/readme.md)
 * Events:
-	* [online](https://github.com/The-AI-Alliance/community/tree/main/events/office-hours)
-	* [in-person](https://thealliance.ai/events)
+	* Our [events calendar](https://the-ai-alliance.github.io/event_database/)
+	* Past events, including presentations, etc.
+		* [online](https://github.com/The-AI-Alliance/community/tree/main/events/office-hours)
+		* [in-person](https://thealliance.ai/events)
 * [Resources](/resources/readme.md)
 * [Governance](https://thealliance.ai/governance)
 
