@@ -20,11 +20,8 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 ### London
 * 6/6/2025 PyData London
 
-### Lussaune
-* PyData
-
-### Geneva
-* PyData
+### Lausanne / Valais / Zurich (Geneva / Basel)
+* PyData : https://pydata-switzerland.github.io/pydata-ch-website/
 
 ### Stockholm
 * PyData StockholmTBD (May)TBD
@@ -39,9 +36,6 @@ This AI Alliance Community Groups page is a work in progress. It's purpose is to
 
 ### Trieste
 * [ICTP](https://www.ictp.it)
-
-### Zurich
-* PyData
 
 ## MENA (Middle East, Africa)
 
