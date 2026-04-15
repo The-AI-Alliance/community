@@ -45,7 +45,7 @@ Join one of our weekly Community volunteer meetings:
 
 ## AI Alliance & Affiliated Groups
 * [By Region](https://github.com/The-AI-Alliance/community/blob/main/groups/regional.md)
-* [Online](https://github.com/The-AI-Alliance/community/blob/main/online/office-hours.md)
+* [Online](https://github.com/The-AI-Alliance/community/blob/main/events/office-hours/README.md)
 
 ## For More Information
 
