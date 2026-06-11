@@ -1,13 +1,13 @@
 <img src="resources/images/ai-alliance-logo-horiz-pos-blue-cmyk.png" alt="AI Alliance Banner" width="600"/> 
 
-This is where the [AI Alliance](https://aialliance.org) community shares information about projects, meetings, events, and other activities that you can contribute to and participate in. 
+This is where the [AI Alliance](https://thealliance.ai) community shares information about projects, meetings, events, and other activities that you can contribute to and participate in. 
 
 Consider joining one of our Community volunteer meetings (see below) or contributing to these pages. [Start a discussion](https://github.com/orgs/The-AI-Alliance/discussions), submit a [pull request](https://github.com/The-AI-Alliance/community/pulls), or [send us email](mailto:contact@thealliance.ai).
 
 ### Quick Links: 
 
 * Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
-* [Join](https://www.aialliance.org/join) the AI Alliance
+* [Join](https://www.thealliance.ai/join) the AI Alliance
   	* Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)
 * Projects:
 	* [Submit a project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).

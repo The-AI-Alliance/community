@@ -5,7 +5,7 @@
 ### Direct links:
 
 * Receive our [newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
-* [Join](https://www.aialliance.org/join) the AI Alliance
+* [Join](https://www.thealliance.ai/join) the AI Alliance
   * Know the specific work group you want to join? [Go here](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo)
 * [Submit a project](https://events.thealliance.ai/aia-project) for us to support or adopt (defined below).
 * [Submit a use case](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg) for your domain. Help us help you build it!
