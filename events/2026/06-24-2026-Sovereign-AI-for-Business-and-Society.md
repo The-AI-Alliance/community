@@ -31,7 +31,9 @@ Here is more information about the talks, including our speakers, links to their
 		* [PRs](https://github.com/The-AI-Alliance/tapestry/pulls)
 		* [Discussions](https://github.com/The-AI-Alliance/tapestry/discussions)
 
-### Nexbax: Next Billion AI Index
+The next segment of talks focus on three areas where Tapestry is making significant investments, i) cultural alignment of models, ii) consortium training, and iii) data with full support for sovereignty and governance concerns. These talks describe some of the challenges and various ways they are being addressed.
+
+### _Cultural Alignment_ - Nexbax: Next Billion AI Index
 
 **Speaker:** [Ambrish Rawat](https://www.linkedin.com/in/ambrishrawat/) - [IBM Research](https://research.ibm.com)
 
@@ -42,7 +44,7 @@ Here is more information about the talks, including our speakers, links to their
 	* [website](https://nexbax.github.io/)
 	* [paper](https://arxiv.org/abs/2606.00359)
 
-### What Is “Consortium Training” and Why Should You Care?
+### _Consortium Training_ - What Is It and Why Should You Care?
 
 **Speaker:** [Dean Wampler](https://www.linkedin.com/in/deanwampler/) - [IBM](https://ibm.com) and [The AI Alliance](https://thealliance.ai)
 
@@ -63,7 +65,7 @@ Here is more information about the talks, including our speakers, links to their
 
 * Slides - coming soon
 
-### Data, Part III - OpenMined (Talk title TBD)
+### Data, Part III - Data Infrastructure for Frontier Sovereign AI 
 
 **Speaker:** [Ronnie Falcon](https://www.linkedin.com/in/ronnie-falcon/) - [OpenMined](https://openmined.org)
 
@@ -79,6 +81,8 @@ Expect a candid look at the tradeoffs nobody wants to name,  open vs. closed, bu
 * Slides - coming soon
 
 ### TBD Talk
+
+(We may have one or two more "lightning" talks)
 
 **Speaker:** coming soon
 
