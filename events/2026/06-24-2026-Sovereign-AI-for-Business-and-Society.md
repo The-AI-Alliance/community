@@ -33,6 +33,15 @@ Here is more information about the talks, including our speakers, links to their
 
 The next segment of talks focus on three areas where Tapestry is making significant investments, i) cultural alignment of models, ii) consortium training, and iii) data with full support for sovereignty and governance concerns. These talks describe some of the challenges and various ways they are being addressed.
 
+### _Consortium Training_ - What Is It and Why Should You Care?
+
+**Speaker:** [Dean Wampler](https://www.linkedin.com/in/deanwampler/) - [IBM](https://ibm.com) and [The AI Alliance](https://thealliance.ai)
+
+**Abstract**: The term _Consortium Training_ (CT) refers to using globally distributed data centers, each owned by sovereign entities, collaborating together to develop AI models, both _pre-training_, to create the "raw" base models, and _post-training_, including tuning, alignment with reinforcement learning, etc. CT aggregates compute resources that no one data center can provide, _and_ it uniquely supports the use of data sets that are protected in some way, such as sovereign boundary laws, that would be off limits if all training were done in one location's compute environment. This talk will describe CT and its advantages, as well as its challenges.
+
+* [Slides](https://deanwampler.github.io/polyglotprogramming/papers/#What-Is-Consortium-Training)
+* [All Dean's talks](https://deanwampler.github.io/polyglotprogramming/papers/)
+
 ### _Cultural Alignment_ - Nexbax: Next Billion AI Index
 
 **Speaker:** [Ambrish Rawat](https://www.linkedin.com/in/ambrishrawat/) - [IBM Research](https://research.ibm.com)
@@ -43,15 +52,6 @@ The next segment of talks focus on three areas where Tapestry is making signific
 * Nexbax:
 	* [website](https://nexbax.github.io/)
 	* [paper](https://arxiv.org/abs/2606.00359)
-
-### _Consortium Training_ - What Is It and Why Should You Care?
-
-**Speaker:** [Dean Wampler](https://www.linkedin.com/in/deanwampler/) - [IBM](https://ibm.com) and [The AI Alliance](https://thealliance.ai)
-
-**Abstract**: The term _Consortium Training_ (CT) refers to using globally distributed data centers, each owned by sovereign entities, collaborating together to develop AI models, both _pre-training_, to create the "raw" base models, and _post-training_, including tuning, alignment with reinforcement learning, etc. CT aggregates compute resources that no one data center can provide, _and_ it uniquely supports the use of data sets that are protected in some way, such as sovereign boundary laws, that would be off limits if all training were done in one location's compute environment. This talk will describe CT and its advantages, as well as its challenges.
-
-* Slides - coming soon
-* [All Dean's talks](https://deanwampler.github.io/polyglotprogramming/papers/)
 
 ### Data, Part I - The Spectrum from Private to Fully Open
 
