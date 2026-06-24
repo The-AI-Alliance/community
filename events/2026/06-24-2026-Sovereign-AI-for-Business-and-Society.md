@@ -78,12 +78,5 @@ The next segment of talks focus on three areas where Tapestry is making signific
 **Abstract**: Most enterprises today have dozens of AI pilots and almost nothing in production. The bottleneck isn't models or data, it's the platform underneath. And as AI shifts from features you call to agents that act, the platform decisions get harder, the tech debt compounds faster, and the sovereignty questions get sharper.
 This talk draws on what we're hearing from top executives navigating their AI journey and introduces a maturity framework for the AI platform itself , across data readiness, infrastructure, and the decisions that determine whether your AI is fit-for-purpose, governed, and yours to control. We'll go deep on one focus area where sovereignty becomes real or theoretical: governance and safety by design.
 Expect a candid look at the tradeoffs nobody wants to name,  open vs. closed, build vs. buy, centralized vs. federated, and a practical answer to a question every executive is asking: how do we own our AI journey?
-* Slides - coming soon
 
-### TBD Talk
-
-(We may have one or two more "lightning" talks)
-
-**Speaker:** coming soon
-
-* Slides - coming soon
+* [Slides](assets/AI-Alliance-Red-Hat-FlightPath_Owning-Your-Platform-AI-Journey.pdf) (PDF)
