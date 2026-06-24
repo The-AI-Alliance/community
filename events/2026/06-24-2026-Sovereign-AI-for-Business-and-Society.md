@@ -57,7 +57,7 @@ The next segment of talks focus on three areas where Tapestry is making signific
 
 **Speaker:** [Kaushik Bhatta](https://www.linkedin.com/in/kbhatta/) - [The AI Alliance](https://thealliance.ai)
 
-* Slides - coming soon
+* [Slides](https://docs.google.com/presentation/d/1mHj-rhtZgnZzSgM2QxOpZRGmqRyaTdGrSaK7Abptm-Q/edit?slide=id.p1#slide=id.p1) (Google slides)
 
 ### Data, Part II - Expanding Common Crawl's Linguistic and Cultural Coverage
 
@@ -69,7 +69,7 @@ The next segment of talks focus on three areas where Tapestry is making signific
 
 **Speaker:** [Ronnie Falcon](https://www.linkedin.com/in/ronnie-falcon/) - [OpenMined](https://openmined.org)
 
-* Slides - coming soon
+* [Slides](assets/OpenMined%20-%20AI%20Alliance%20meetup%20-%20June%202026.pdf) (PDF)
 
 ### Owning Your platform AI Journey
 
