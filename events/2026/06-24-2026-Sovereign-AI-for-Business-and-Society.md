@@ -48,7 +48,7 @@ The next segment of talks focus on three areas where Tapestry is making signific
 
 **Abstract**: Beyond owning and adapting models, sovereign AI needs to answer whether AI systems are actually useful, trusted, and governable in local contexts. This talk introduces the Next Billion AI Index as a diagnostic framework for evaluating AI utility and adoption beyond benchmark performance, with 10 dimensions spanning across effective efficiency, operational practicality and societal integrity. The discussion connects this assessment lens to the broader goal of enabling sovereign, context-sensitive AI development.
 
-* [Slides](assets/24Jun_nexbax_sovereign_AI.pdf) (PDF)
+* [Slides](https://github.com/The-AI-Alliance/community/blob/main/events/2026/assets/24Jun_nexbax_sovereign_AI.pdf) (PDF)
 * Nexbax:
 	* [website](https://nexbax.github.io/)
 	* [paper](https://arxiv.org/abs/2606.00359)
