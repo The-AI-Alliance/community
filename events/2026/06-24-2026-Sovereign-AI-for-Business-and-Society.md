@@ -74,7 +74,7 @@ The next segment of talks focus on three areas where Tapestry is making signific
 
 ### Owning Your platform AI Journey
 
-**Speaker:** [Alexandra Machado](https://www.linkedin.com/in/alexandramachadof/) - [Red Hat](https://www.redhat.com)
+**Speaker:** [Alexandra Machado McDowell](https://www.linkedin.com/in/alexandramachadof/) - [Red Hat](https://www.redhat.com)
 
 **Abstract**: Most enterprises today have dozens of AI pilots and almost nothing in production. The bottleneck isn't models or data, it's the platform underneath. And as AI shifts from features you call to agents that act, the platform decisions get harder, the tech debt compounds faster, and the sovereignty questions get sharper.
 This talk draws on what we're hearing from top executives navigating their AI journey and introduces a maturity framework for the AI platform itself , across data readiness, infrastructure, and the decisions that determine whether your AI is fit-for-purpose, governed, and yours to control. We'll go deep on one focus area where sovereignty becomes real or theoretical: governance and safety by design.
