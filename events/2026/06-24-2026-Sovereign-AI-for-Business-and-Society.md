@@ -13,7 +13,7 @@
 
 Thank you for attending this [AI Alliance](https://thealliance.ai) meetup, in person or online! Use the following links to learn more about the topics covered today and the speakers. -- [Dean Wampler](mailto:dwampler@thealliance.ai)
 
-* Meeting Video: The link to the video, hosted on our [YouTube!](https://www.youtube.com/@thealliance_ai) channel, will be added here when available.
+* [Meeting Video](https://www.youtube.com/watch?v=OwBasKP8XSU): Hosted on the AI Alliance [YouTube!](https://www.youtube.com/@thealliance_ai) channel.
 * [Meeting Transcript](https://github.com/The-AI-Alliance/community/blob/main/events/2026/assets/AIA-NYC-Meetup-2026_06_24-Edited-Transcript.pdf) -  Edited, so it diverges somewhat from the video.
 
 ## The Agenda
