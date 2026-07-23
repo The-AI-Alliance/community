@@ -26,7 +26,7 @@ jobs:
           until: ${{ steps.until-date.outputs.result }}
           create-json: user-activity-last-year-data.json
           create-csv: user-activity-last-year-data.csv
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v7
         with:
           name: reports
           path: |
