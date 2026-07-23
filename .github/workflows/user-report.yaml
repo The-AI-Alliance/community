@@ -1,0 +1,34 @@
+# Adapted from https://github.com/marketplace/actions/github-organization-activity-report#example-to-get-a-report-for-the-last-month
+# Prompts for the date range, defaulting to 1 year ago - today.
+name: 'User Activity Report'
+on:
+  workflow_dispatch:
+
+jobs:
+  'create-report':
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v6
+        id: since-date
+        with:
+          script: return new Date(new Date().getFullYear() - 1, new Date().getMonth(), new Date().getDate())
+          result-encoding: string
+      - uses: actions/github-script@v6
+        id: until-date
+        with:
+          script: return new Date(new Date().getFullYear(), new Date().getMonth(), new Date().getDate())
+          result-encoding: string
+      - uses: sorekz/user-activity-report@v1
+        with:
+          token: ${{ secrets.SPECIAL_GH_TOKEN }}
+          organization: 'The-AI-Alliance'
+          since: ${{ steps.since-date.outputs.result }}
+          until: ${{ steps.until-date.outputs.result }}
+          create-json: user-activity-last-year-data.json
+          create-csv: user-activity-last-year-data.csv
+      - uses: actions/upload-artifact@v3
+        with:
+          name: reports
+          path: |
+            user-activity-last-year-data.json
+            user-activity-last-year-data.csv
