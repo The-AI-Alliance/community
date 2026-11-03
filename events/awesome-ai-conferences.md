@@ -7,6 +7,8 @@ Want to contribute? By contributing to this repo, you not only help AI engineers
 
 See also [Community Events](readme.md) and [Online Office Hours](../online/office-hours.md)
 
+For more upcoming AI and agent-engineering conferences and open CFPs, see [AgentConfs](https://agentconfs.com).
+
 ## Archives
 
 * [2024](archives/2024.md)
